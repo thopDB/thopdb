@@ -1,0 +1,2504 @@
+[
+  {
+    "tvgLogo": "https://i.ibb.co/5BsHSxF/20210806-125945.png",
+    "title": "Techie Sneh (Big Buck Bunny)",
+    "url": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
+    "url11": "potplayer://https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8"
+  },
+  {
+    "title": "COLORS HD (IN)",
+    "tvgLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",
+    "url": "http://221.120.204.4/colours-hd-LOCKLE/playlist.m3u8",
+    "url11": "https://snehott.in1.bitmana.io/jiotv/play.php?c=Colors_HD"
+  },
+  {
+    "title": "SONY SAB HD (IN)",
+    "tvgLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",
+    "url": "http://103.72.179.30:1935/GECHindi/SONY_SAB.stream_720p/Playlist.m3u8",
+    "url11": "https://snehott.in1.bitmana.io/jiotv/play.php?c=Sony_SAB_HD"
+  },
+  {
+    "title": "STAR BHARAT HD (IN)",
+    "tvgLogo": "https://www.rdcablenet.com/wp-content/uploads/2019/01/STAR-BHARAT-HD.png",
+    "url": "http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8"
+  },
+  {
+    "title": "STAR BHARAT HD 2 (IN)",
+    "tvgLogo": "https://www.rdcablenet.com/wp-content/uploads/2019/01/STAR-BHARAT-HD.png",
+    "url": "http://103.153.39.36:8000/play/a010"
+  },
+  {
+    "title": "SONY MAX HD (IN)",
+    "tvgLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
+    "url": "http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8",
+    "url11": "https://snehott.in1.bitmana.io/jiotv/play.php?c=Sony_Max_HD"
+  },
+  {
+    "title": "SONY HD (IN)",
+    "tvgLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
+    "url": "http://103.72.179.30:1935/GECHindi/SONY_TV.stream_720p/Playlist.m3u8",
+    "url11": "https://snehott.in1.bitmana.io/jiotv/play.php?c=Sony_HD"
+  },
+  {
+    "title": "ZEE TV HD (IN)",
+    "tvgLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",
+    "url": "http://221.120.204.4/zee-tv-LOCKLE/index.m3u8",
+    "url11": "https://snehott.in1.bitmana.io/jiotv/play.php?c=Zee_TV_HD"
+  },
+  {
+    "title": "ZEE CINEMA HD (IN)",
+    "tvgLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",
+    "url": "http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8",
+    "url11": "https://snehott.in1.bitmana.io/jiotv/play.php?c=Zee_Cinema_HD"
+  },
+  {
+    "title": "STAR PLUS HD (IN)",
+    "tvgLogo": "https://pbs.twimg.com/profile_images/1164132839710838784/LHQ31mtM_400x400.jpg",
+    "url": "http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8"
+  },
+  {
+    "title": "STAR PLUS HD 2 (IN)",
+    "tvgLogo": "https://pbs.twimg.com/profile_images/1164132839710838784/LHQ31mtM_400x400.jpg",
+    "url": "http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8"
+  },
+  {
+    "title": "NASA TV (US)",
+    "tvgLogo": "https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",
+    "url": "https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8",
+    "url11": "potplayer://https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8"
+  },
+  {
+    "title": "India Today (IN)",
+    "tvgLogo": "https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/09/08/india-today_0.jpg",
+    "url": "https://feeds.intoday.in/hltapps/api/master.m3u8",
+    "url11": "potplayer://https://feeds.intoday.in/hltapps/api/master.m3u8"
+  },
+  {
+    "title": "News18 India (IN)",
+    "tvgLogo": "https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png",
+    "url": "https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-p.m3u8",
+    "url11": "potplayer://https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-p.m3u8"
+  },
+  {
+    "title": "Times Now (IN)",
+    "tvgLogo": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1444742445/a4kaqlg3sxkkieqsjiva.png",
+    "url": "https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8",
+    "url11": "potplayer://https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8"
+  },
+  {
+    "title": "Mirror Now (IN)",
+    "tvgLogo": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/times-mirror-now-logo-300x300.jpg",
+    "url": "https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8",
+    "url11": "potplayer://https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8"
+  },
+  {
+    "title": "Star Sports 1 Hindi (IN)",
+    "tvgLogo": "https://logodix.com/logo/817076.jpg",
+    "url": "http://103.153.39.36:8000/play/a026"
+  },
+  {
+    "title": "Star Sports 1 HD (IN)",
+    "tvgLogo": "https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/04/19/starspoerts1.jpg",
+    "url": "http://103.153.39.36:8000/play/a00c"
+  },
+  {
+    "title": "Star Sports 2 HD (IN)",
+    "tvgLogo": "https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/04/19/starspoerts1.jpg",
+    "url": "http://103.153.39.36:8000/play/a00dc"
+  },
+  {
+    "title": "Star Sports 3 (IN)",
+    "tvgLogo": "https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/04/19/starspoerts1.jpg",
+    "url": "http://103.153.39.36:8000/play/a00l"
+  },
+  {
+    "duration": -1,
+    "title": "Surya Comedy",
+    "tvgId": "30835",
+    "tvgLogo": "https://sund-images.sunnxt.com/30835/1000x1000_143a4af4-2f02-4c9c-814b-af149e6a5a95.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/30835.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Udaya Movies",
+    "tvgId": "26576",
+    "tvgLogo": "https://sund-images.sunnxt.com/26576/1000x1000_4ad767d2-e5d7-45f2-a95a-ab99f56cc2bf.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26576.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Surya TV HD",
+    "tvgId": "26574",
+    "tvgLogo": "https://sund-images.sunnxt.com/26574/1000x1000_6ed3be47-b8bf-45ee-adf1-fb5ae9621e08.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26574.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Sun News",
+    "tvgId": "38926",
+    "tvgLogo": "https://sund-images.sunnxt.com/38926/1000x1000_SunNews_38926_5921657d-45b6-445e-9e26-f0cd67be9d39.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/38926.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Gemini Movies",
+    "tvgId": "9015",
+    "tvgLogo": "https://sund-images.sunnxt.com/9015/1000x1000_a4023b29-e49b-4c98-9621-95b7e5c39a19.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9015.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Adithya TV",
+    "tvgId": "9023",
+    "tvgLogo": "https://sund-images.sunnxt.com/9023/1000x1000_30878292-a63e-4414-acbc-902c0afb4b9b.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9023.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Chutti TV",
+    "tvgId": "26567",
+    "tvgLogo": "https://sund-images.sunnxt.com/26567/1000x1000_c103e59e-217e-44fd-a087-651fcf8e6278.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26567.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "KTV HD",
+    "tvgId": "26566",
+    "tvgLogo": "https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26566.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Gemini Life",
+    "tvgId": "26572",
+    "tvgLogo": "https://sund-images.sunnxt.com/26572/1000x1000_da07159f-fa9c-45d0-beb2-685bedc12e33.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26572.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Surya Music",
+    "tvgId": "26575",
+    "tvgLogo": "https://sund-images.sunnxt.com/26575/1000x1000_a73efcfb-e350-491c-94e0-bd75f0d9d5f2.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26575.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Surya Movies",
+    "tvgId": "9019",
+    "tvgLogo": "https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9019.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Sun Life",
+    "tvgId": "26569",
+    "tvgLogo": "https://sund-images.sunnxt.com/26569/1000x1000_SunLife_26569_1e6604fc-2df9-4598-8f1c-dcbda46254ab.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26569.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Sun Bangla",
+    "tvgId": "75117",
+    "tvgLogo": "https://sund-images.sunnxt.com/75117/200x200_4b19b530-f0bb-4b26-a9de-f3cdd5f8be20.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/75117.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Gemini Comedy",
+    "tvgId": "9027",
+    "tvgLogo": "https://sund-images.sunnxt.com/9027/1000x1000_5cb5b903-f1a0-4590-bb90-8cfa529322e2.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9027&e=.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Surya TV",
+    "tvgId": "9018",
+    "tvgLogo": "https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9018.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Udaya Music",
+    "tvgId": "9022",
+    "tvgLogo": "https://sund-images.sunnxt.com/9022/1000x1000_d85b4dcc-ad0c-4a5b-84fd-6dd91dc585e2.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9022.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Sun Marathi",
+    "groupTitle": "Sneh SunNXT",
+    "tvgLogo": "https://sund-images.sunnxt.com/125944/200x200_SUNMarathi_125944_5e5a0ad1-23ed-4577-a331-791c6fa0e746.jpg",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/125944.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Udaya Comedy",
+    "tvgId": "9014",
+    "tvgLogo": "https://sund-images.sunnxt.com/9014/1000x1000_8a47fe5c-81a8-42a4-8a05-f168e6a3c868.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9014.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Surya TV HD",
+    "tvgId": "26574",
+    "tvgLogo": "https://sund-images.sunnxt.com/26574/1000x1000_6ed3be47-b8bf-45ee-adf1-fb5ae9621e08.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26574.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Chintu TV",
+    "tvgId": "26577",
+    "tvgLogo": "https://sund-images.sunnxt.com/26577/1000x1000_4a0f4f2f-e317-4230-9fb6-6169ef66991d.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26577.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Sun Life",
+    "tvgId": "26569",
+    "tvgLogo": "https://sund-images.sunnxt.com/26569/1000x1000_SunLife_26569_1e6604fc-2df9-4598-8f1c-dcbda46254ab.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26569.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Udaya TV",
+    "tvgId": "9029",
+    "tvgLogo": "https://sund-images.sunnxt.com/9029/1000x1000_9f0bcf68-5025-43af-8e60-b83fea67215c.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9029.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Kochu TV",
+    "tvgId": "26573",
+    "tvgLogo": "https://sund-images.sunnxt.com/26573/1000x1000_5787336f-08b9-480f-9c97-3db09999b558.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26573.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Gemini Movies HD",
+    "tvgId": "26570",
+    "tvgLogo": "https://sund-images.sunnxt.com/26570/1000x1000_285efca5-02f3-40a1-8f8c-d913e8f6b989.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26570.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Udaya Music",
+    "tvgId": "9022",
+    "tvgLogo": "https://sund-images.sunnxt.com/9022/1000x1000_d85b4dcc-ad0c-4a5b-84fd-6dd91dc585e2.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9022.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Surya Music",
+    "tvgId": "26575",
+    "tvgLogo": "https://sund-images.sunnxt.com/26575/1000x1000_a73efcfb-e350-491c-94e0-bd75f0d9d5f2.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26575.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Kochu TV",
+    "tvgId": "26573",
+    "tvgLogo": "https://sund-images.sunnxt.com/26573/1000x1000_5787336f-08b9-480f-9c97-3db09999b558.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26573.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Sun Music HD",
+    "tvgId": "9013",
+    "tvgLogo": "https://sund-images.sunnxt.com/9013/1000x1000_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9013.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Kushi TV",
+    "tvgId": "26571",
+    "tvgLogo": "https://sund-images.sunnxt.com/26571/1000x1000_d0545f75-f99b-4375-8f42-6120c95fc55c.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26571.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Sun Music HD",
+    "tvgId": "9013",
+    "tvgLogo": "https://sund-images.sunnxt.com/9013/1000x1000_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9013.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Gemini Music HD",
+    "tvgId": "26568",
+    "tvgLogo": "https://sund-images.sunnxt.com/26568/1000x1000_eaa4e437-cce0-4411-8e46-13640be94c55.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26568.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Adithya TV",
+    "tvgId": "9023",
+    "tvgLogo": "https://sund-images.sunnxt.com/9023/1000x1000_30878292-a63e-4414-acbc-902c0afb4b9b.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9023.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Gemini Music",
+    "tvgId": "9026",
+    "tvgLogo": "https://sund-images.sunnxt.com/9026/1000x1000_4cca05ef-46eb-4076-af6b-a8fdc1b88a27.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9026.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Surya Movies",
+    "tvgId": "9019",
+    "tvgLogo": "https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9019.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Chutti TV",
+    "tvgId": "26567",
+    "tvgLogo": "https://sund-images.sunnxt.com/26567/1000x1000_c103e59e-217e-44fd-a087-651fcf8e6278.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26567.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Sun Music",
+    "tvgId": "9025",
+    "tvgLogo": "https://sund-images.sunnxt.com/9025/1000x1000_c8897f06-b2c0-4856-9d81-02181b821cf7.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9025.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Gemini TV HD",
+    "tvgId": "14019",
+    "tvgLogo": "https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/14019.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Udaya Comedy",
+    "tvgId": "9014",
+    "tvgLogo": "https://sund-images.sunnxt.com/9014/1000x1000_8a47fe5c-81a8-42a4-8a05-f168e6a3c868.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9014.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "KTV HD",
+    "tvgId": "26566",
+    "tvgLogo": "https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26566.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Udaya Movies",
+    "tvgId": "26576",
+    "tvgLogo": "https://sund-images.sunnxt.com/26576/1000x1000_4ad767d2-e5d7-45f2-a95a-ab99f56cc2bf.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26576.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Sun TV",
+    "tvgId": "9016",
+    "tvgLogo": "https://sund-images.sunnxt.com/9016/1000x1000_4522d18b-56cc-42be-8365-c54e21a6e394.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9016.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Sun News",
+    "tvgId": "38926",
+    "tvgLogo": "https://sund-images.sunnxt.com/38926/1000x1000_SunNews_38926_5921657d-45b6-445e-9e26-f0cd67be9d39.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/38926.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Gemini TV",
+    "tvgId": "9017",
+    "tvgLogo": "https://sund-images.sunnxt.com/9017/1000x1000_66d46fd1-643f-429f-9e19-db603fa0e5e4.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9017.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Gemini Movies",
+    "tvgId": "9015",
+    "tvgLogo": "https://sund-images.sunnxt.com/9015/1000x1000_a4023b29-e49b-4c98-9621-95b7e5c39a19.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9015.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Sun TV HD",
+    "tvgId": "14020",
+    "tvgLogo": "https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/14020.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Surya Comedy",
+    "tvgId": "30835",
+    "tvgLogo": "https://sund-images.sunnxt.com/30835/1000x1000_143a4af4-2f02-4c9c-814b-af149e6a5a95.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/30835.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Gemini TV",
+    "tvgId": "9017",
+    "tvgLogo": "https://sund-images.sunnxt.com/9017/1000x1000_66d46fd1-643f-429f-9e19-db603fa0e5e4.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9017.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Sun Music",
+    "tvgId": "9025",
+    "tvgLogo": "https://sund-images.sunnxt.com/9025/1000x1000_c8897f06-b2c0-4856-9d81-02181b821cf7.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9025.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Sun TV HD",
+    "tvgId": "14020",
+    "tvgLogo": "https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/14020.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Gemini Life",
+    "tvgId": "26572",
+    "tvgLogo": "https://sund-images.sunnxt.com/26572/1000x1000_da07159f-fa9c-45d0-beb2-685bedc12e33.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26572.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Udaya TV HD",
+    "tvgId": "30846",
+    "tvgLogo": "https://sund-images.sunnxt.com/30846/1000x1000_efb20223-e677-49fd-985e-806e7b162c6b.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/30846.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Gemini Music",
+    "tvgId": "9026",
+    "tvgLogo": "https://sund-images.sunnxt.com/9026/1000x1000_4cca05ef-46eb-4076-af6b-a8fdc1b88a27.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9026.m3u8"
+  },
+  {
+    "duration": -1,
+    "title": "Surya TV",
+    "tvgId": "9018",
+    "tvgLogo": "https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg",
+    "groupTitle": "Sneh SunNxt ",
+    "url": "https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9018.m3u8"
+  },
+  {
+    "tvgId": "144",
+    "tvgLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
+    "title": "SONY HD [SonyLIV Chrome]",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8",
+    "url11": "potplayer://https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8"
+  },
+  {
+    "tvgId": "144",
+    "tvgLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",
+    "title": "SONY SAB HD [SonyLIV Chrome]",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8",
+    "url11": "potplayer://https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8"
+  },
+  {
+    "tvgId": "144",
+    "tvgLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",
+    "title": "SONY MARATHI [SonyLIV Chrome]",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8",
+    "url11": "potplayer://https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8"
+  },
+  {
+    "tvgId": "144",
+    "tvgLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",
+    "title": "SONY PAL [SonyLIV Chrome]",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8",
+    "url11": "potplayer://https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8"
+  },
+  {
+    "tvgId": "144",
+    "tvgLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png",
+    "title": "SONY AATH [SonyLIV Chrome]",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8",
+    "url11": "potplayer://https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8"
+  },
+  {
+    "tvgId": "144",
+    "tvgLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",
+    "title": "SONY YAY [SonyLIV Chrome]",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8",
+    "url11": "potplayer://https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8"
+  },
+  {
+    "tvgId": "144",
+    "tvgLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
+    "title": "SONY MAX HD [SonyLIV Chrome]",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8",
+    "url11": "potplayer://https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8"
+  },
+  {
+    "tvgId": "144",
+    "tvgLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png",
+    "title": "SONY MAX [SonyLIV Chrome]",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8",
+    "url11": "potplayer://https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8"
+  },
+  {
+    "tvgId": "144",
+    "tvgLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png",
+    "title": "SONY WAH [SonyLIV Chrome]",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8",
+    "url11": "potplayer://https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8"
+  },
+  {
+    "tvgId": "144",
+    "tvgLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",
+    "title": "SONY MAX2 [SonyLIV Chrome]",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8",
+    "url11": "potplayer://https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8"
+  },
+  {
+    "tvgId": "762",
+    "tvgLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
+    "title": "SONY PIX HD [SonyLIV Chrome]",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8",
+    "url11": "potplayer://https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8"
+  },
+  {
+    "tvgId": "144",
+    "tvgLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",
+    "title": "SONY SIX HD [SonyLIV Chrome]",
+    "url": "https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8",
+    "url11": "https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8"
+  },
+  {
+    "tvgId": "162",
+    "tvgLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
+    "title": "SONY TEN 1 HD [SonyLIV Chrome]",
+    "url": "https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8",
+    "url11": "https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8"
+  },
+  {
+    "tvgId": "144",
+    "tvgLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",
+    "title": "SONY TEN 2 HD [SonyLIV Chrome]",
+    "url": "https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8",
+    "url11": "https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8"
+  },
+  {
+    "tvgId": "144",
+    "tvgLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",
+    "title": "SONY TEN 3 HD [SonyLIV Chrome]",
+    "url": "https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8",
+    "url11": "https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8"
+  },
+  {
+    "tvgId": "144",
+    "tvgLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png",
+    "title": "SONY SIX [SonyLIV Chrome]",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8",
+    "url11": "potplayer://https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8"
+  },
+  {
+    "tvgId": "144",
+    "tvgLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png",
+    "title": "SONY TEN 1 [SonyLIV Chrome]",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8",
+    "url11": "potplayer://https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8"
+  },
+  {
+    "tvgId": "144",
+    "tvgLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png",
+    "title": "SONY TEN 2 [SonyLIV Chrome]",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8",
+    "url11": "potplayer://https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8"
+  },
+  {
+    "tvgId": "144",
+    "tvgLogo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png",
+    "title": "SONY TEN 3 [SonyLIV Chrome]",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8",
+    "url11": "potplayer://https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8"
+  },
+  {
+    "tvgId": "892",
+    "tvgLogo": "https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4SD_Masthead_Logo.png",
+    "title": "SONY TEN 4 SD [SonyLIV Chrome]",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8",
+    "url11": "potplayer://https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8"
+  },
+  {
+    "tvgId": "892",
+    "tvgLogo": "https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4HD_Masthead_Logo.png",
+    "title": "SONY TEN 4 HD [SonyLIV Chrome]",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8",
+    "url11": "potplayer://https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8"
+  },
+  {
+    "tvgId": "525",
+    "tvgLogo": "https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png",
+    "title": "BBC EARTH [SonyLIV Chrome]",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8",
+    "url11": "potplayer://https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8048.AzaadTV.in/en/1x1/208x208/test_pic1623389647594.jpg",
+    "title": "[MXTV] Azaad TV",
+    "url": "https://m-c010-j2apps.s.llnwi.net/hls/8048.AzaadTV.in.m3u8",
+    "url11": "potplayer://https://m-c010-j2apps.s.llnwi.net/hls/8048.AzaadTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0306.9XM.in/en/1x1/208x208/test_pic1545220990615.jpg",
+    "title": "[MXTV] 9XM",
+    "url": "https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8",
+    "url11": "potplayer://https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0589.Mastiii.in/en/1x1/208x208/test_pic1567397477532.jpg",
+    "title": "[MXTV] Mastiii",
+    "url": "https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in.m3u8",
+    "url11": "potplayer://https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0204.MusicIndia.in/en/1x1/208x208/test_pic1552392696883.jpg",
+    "title": "[MXTV] Music India",
+    "url": "https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8",
+    "url11": "potplayer://https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0781.9XJalwa.in/en/1x1/208x208/test_pic1545220867249.jpg",
+    "title": "[MXTV] 9X Jalwa",
+    "url": "https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8",
+    "url11": "potplayer://https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0091.IndiaTV.in/en/1x1/208x208/test_pic1541353350078.JPG",
+    "title": "[MXTV] India TV",
+    "url": "https://m-c02-j2apps.s.llnwi.net/hls/0091.IndiaTV.in.m3u8",
+    "url11": "potplayer://https://m-c02-j2apps.s.llnwi.net/hls/0091.IndiaTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7014.ABPNews.in/en/1x1/208x208/test_pic1608057116851.jpg",
+    "title": "[MXTV] ABP News",
+    "url": "https://m-c02-j2apps.s.llnwi.net/hls/7014.ABPNews.in.m3u8",
+    "url11": "potplayer://https://m-c02-j2apps.s.llnwi.net/hls/7014.ABPNews.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0380.NewsX.in/en/1x1/208x208/test_pic1552315785886.jpg",
+    "title": "[MXTV] NewsX",
+    "url": "https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in.m3u8",
+    "url11": "potplayer://https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/1693.IndiaNewsUP.in/en/1x1/208x208/test_pic1558073787702.jpg",
+    "title": "[MXTV] India News UP",
+    "url": "https://m-c18-j2apps.s.llnwi.net/hls/1693.IndiaNewsUP.in.m3u8",
+    "url11": "potplayer://https://m-c18-j2apps.s.llnwi.net/hls/1693.IndiaNewsUP.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0442.IndiaNews.in/en/1x1/208x208/test_pic1552315699798.jpg",
+    "title": "[MXTV] India News",
+    "url": "https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8",
+    "url11": "potplayer://https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0344.News24.in/en/1x1/208x208/test_pic1558260507041.jpeg",
+    "title": "[MXTV] News24",
+    "url": "https://m-c09-j2apps.s.llnwi.net/hls/0344.News24.in.m3u8",
+    "url11": "potplayer://https://m-c09-j2apps.s.llnwi.net/hls/0344.News24.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/1838.GulistanNews.in/en/1x1/208x208/test_pic1552384672096.jpg",
+    "title": "[MXTV] Gulistan News",
+    "url": "https://m-c18-j2apps.s.llnwi.net/hls/1838.GulistanNews.in.m3u8",
+    "url11": "potplayer://https://m-c18-j2apps.s.llnwi.net/hls/1838.GulistanNews.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0285.RSTV.in/en/1x1/208x208/test_pic1632375637891.jpg",
+    "title": "[MXTV] Sansad TV",
+    "url": "https://m-c16-j2apps.s.llnwi.net/hls/0285.RSTV.in.m3u8",
+    "url11": "potplayer://https://m-c16-j2apps.s.llnwi.net/hls/0285.RSTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0275.LoksabhaTV.in/en/1x1/208x208/test_pic1535464207994.jpg",
+    "title": "[MXTV] Loksabha TV",
+    "url": "https://m-c16-j2apps.s.llnwi.net/hls/0275.LoksabhaTV.in.m3u8",
+    "url11": "potplayer://https://m-c16-j2apps.s.llnwi.net/hls/0275.LoksabhaTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/1900.IndiaNewsMP.in/en/1x1/208x208/test_pic1552392572065.jpg",
+    "title": "[MXTV] India News MP",
+    "url": "https://m-c18-j2apps.s.llnwi.net/hls/1900.IndiaNewsMP.in.m3u8",
+    "url11": "potplayer://https://m-c18-j2apps.s.llnwi.net/hls/1900.IndiaNewsMP.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0290.DDUP.in/en/1x1/208x208/test_pic1535463600644.jpg",
+    "title": "[MXTV] DD UP",
+    "url": "https://m-c16-j2apps.s.llnwi.net/hls/0290.DDUP.in.m3u8",
+    "url11": "potplayer://https://m-c16-j2apps.s.llnwi.net/hls/0290.DDUP.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/3240.NewsIndia24X7.in/en/1x1/208x208/test_pic1552392712851.jpg",
+    "title": "[MXTV] News India 24X7",
+    "url": "https://m-c16-j2apps.s.llnwi.net/hls/3240.NewsIndia24X7.in.m3u8",
+    "url11": "potplayer://https://m-c16-j2apps.s.llnwi.net/hls/3240.NewsIndia24X7.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Marathi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7016.ABPMajha.in/en/1x1/208x208/test_pic1608057169573.jpg",
+    "title": "[MXTV] ABP Majha",
+    "url": "https://m-c02-j2apps.s.llnwi.net/hls/7016.ABPMajha.in.m3u8",
+    "url11": "potplayer://https://m-c02-j2apps.s.llnwi.net/hls/7016.ABPMajha.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0098.DDNational.in/en/1x1/208x208/test_pic1552392509740.jpg",
+    "title": "[MXTV] DD National",
+    "url": "https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_dvr.m3u8",
+    "url11": "potplayer://https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_dvr.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0182.DDNews.in/en/1x1/208x208/test_pic1552315684641.jpg",
+    "title": "[MXTV] DD News",
+    "url": "https://m-c048-j2apps.s.llnwi.net/hls/0182.DDNews.in.m3u8",
+    "url11": "potplayer://https://m-c048-j2apps.s.llnwi.net/hls/0182.DDNews.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0281.DDBihar.in/en/1x1/208x208/test_pic1535463301638.jpg",
+    "title": "[MXTV] DD Bihar",
+    "url": "https://m-c15-j2apps.s.llnwi.net/hls/0281.DDBihar.in.m3u8",
+    "url11": "potplayer://https://m-c15-j2apps.s.llnwi.net/hls/0281.DDBihar.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0519.IBC24.in/en/1x1/208x208/test_pic1544081572562.jpg",
+    "title": "[MXTV] IBC24",
+    "url": "https://m-c18-j2apps.s.llnwi.net/hls/0519.IBC24.in.m3u8",
+    "url11": "potplayer://https://m-c18-j2apps.s.llnwi.net/hls/0519.IBC24.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0131.TotalTV.in/en/1x1/208x208/test_pic1544081844210.jpg",
+    "title": "[MXTV] Total TV",
+    "url": "https://m-c049-j2apps.s.llnwi.net/hls/0131.TotalTV.in.m3u8",
+    "url11": "potplayer://https://m-c049-j2apps.s.llnwi.net/hls/0131.TotalTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0184.Samay.in/en/1x1/208x208/test_pic1556288457224.jpg",
+    "title": "[MXTV] Sahara Samay National",
+    "url": "https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in.m3u8",
+    "url11": "potplayer://https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0188.SamayUPUttrakhand.in/en/1x1/208x208/test_pic1543408239777.jpg",
+    "title": "[MXTV] Sahara Samay UP Uttrakhand",
+    "url": "https://m-c02-j2apps.s.llnwi.net/hls/0188.SamayUPUttrakhand.in.m3u8",
+    "url11": "potplayer://https://m-c02-j2apps.s.llnwi.net/hls/0188.SamayUPUttrakhand.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0186.SamayRajasthan.in/en/1x1/208x208/test_pic1552392926901.jpg",
+    "title": "[MXTV] Sahara Samay Rajasthan",
+    "url": "https://m-c02-j2apps.s.llnwi.net/hls/0186.SamayRajasthan.in.m3u8",
+    "url11": "potplayer://https://m-c02-j2apps.s.llnwi.net/hls/0186.SamayRajasthan.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0187.SamayMPChhattisgarh.in/en/1x1/208x208/test_pic1552392916376.jpg",
+    "title": "[MXTV] Sahara Samay MP Chhattisgarh",
+    "url": "https://m-c02-j2apps.s.llnwi.net/hls/0187.SamayMPChhattisgarh.in.m3u8",
+    "url11": "potplayer://https://m-c02-j2apps.s.llnwi.net/hls/0187.SamayMPChhattisgarh.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/1647.SadhnaMPChattisgarh.in/en/1x1/208x208/test_pic1552392882223.jpg",
+    "title": "[MXTV] Sadhna MP Chattisgarh",
+    "url": "https://m-c02-j2apps.s.llnwi.net/hls/1647.SadhnaMPChattisgarh.in.m3u8",
+    "url11": "potplayer://https://m-c02-j2apps.s.llnwi.net/hls/1647.SadhnaMPChattisgarh.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/1872.FirstIndiaNewsRajasthan.in/en/1x1/208x208/test_pic1544081965308.jpg",
+    "title": "[MXTV] First India News Rajasthan",
+    "url": "https://m-c03-j2apps.s.llnwi.net/hls/1872.FirstIndiaNewsRajasthan.in.m3u8",
+    "url11": "potplayer://https://m-c03-j2apps.s.llnwi.net/hls/1872.FirstIndiaNewsRajasthan.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/1843.KNews24X7.in/en/1x1/208x208/test_pic1547632300570.jpg",
+    "title": "[MXTV] K News India",
+    "url": "https://m-c03-j2apps.s.llnwi.net/hls/1843.KNews24X7.in.m3u8",
+    "url11": "potplayer://https://m-c03-j2apps.s.llnwi.net/hls/1843.KNews24X7.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/5208.HindiKhabar.in/en/1x1/208x208/test_pic1554722707697.jpg",
+    "title": "[MXTV] Hindi Khabar",
+    "url": "https://m-c02-j2apps.s.llnwi.net/hls/5208.HindiKhabar.in.m3u8",
+    "url11": "potplayer://https://m-c02-j2apps.s.llnwi.net/hls/5208.HindiKhabar.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/5045.BFlixMovies.in/en/1x1/208x208/test_pic1536151119917.jpg",
+    "title": "[MXTV] BFlix Movies",
+    "url": "https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8",
+    "url11": "potplayer://https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/4704.HousefullAction.in/en/1x1/208x208/test_pic1536151299517.jpg",
+    "title": "[MXTV] Housefull Action",
+    "url": "https://m-c049-j2apps.s.llnwi.net/hls/4704.HousefullAction.in.m3u8",
+    "url11": "potplayer://https://m-c049-j2apps.s.llnwi.net/hls/4704.HousefullAction.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Punjabi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/2172.ManoranjanMovies.in/en/1x1/208x208/test_pic1535537678437.jpg",
+    "title": "[MXTV] Manoranjan Movies",
+    "url": "https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8",
+    "url11": "potplayer://https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0079.Filmy.in/en/1x1/208x208/test_pic1535463753952.jpg",
+    "title": "[MXTV] Filmy",
+    "url": "https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8",
+    "url11": "potplayer://https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/2820.MahaMovie.in/en/1x1/208x208/test_pic1535464244460.jpg",
+    "title": "[MXTV] Maha Movie",
+    "url": "https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8",
+    "url11": "potplayer://https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/2940.WOWCinemaOne.in/en/1x1/208x208/test_pic1554127110901.JPG",
+    "title": "[MXTV] WOW Cinema One",
+    "url": "https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8",
+    "url11": "potplayer://https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/2914.DDKisan.in/en/1x1/208x208/test_pic1535463411014.jpg",
+    "title": "[MXTV] DD Kisan",
+    "url": "https://m-c048-j2apps.s.llnwi.net/hls/2914.DDKisan.in.m3u8",
+    "url11": "potplayer://https://m-c048-j2apps.s.llnwi.net/hls/2914.DDKisan.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/1309.IshwarTV.in/en/1x1/208x208/test_pic1554455564178.jpg",
+    "title": "[MXTV] Ishwar TV",
+    "url": "https://m-c03-j2apps.s.llnwi.net/hls/1309.IshwarTV.in.m3u8",
+    "url11": "potplayer://https://m-c03-j2apps.s.llnwi.net/hls/1309.IshwarTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0179.DDSports.in/en/1x1/208x208/test_pic1552392523405.jpg",
+    "title": "[MXTV] DD Sports",
+    "url": "https://m-c07-j2apps.s.llnwi.net/hls/9999.MXLive.in.m3u8",
+    "url11": "potplayer://https://m-c07-j2apps.s.llnwi.net/hls/9999.MXLive.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/5265.HareKrsna.in/en/1x1/208x208/test_pic1535463846600.jpg",
+    "title": "[MXTV] Hare Krsna",
+    "url": "https://m-c09-j2apps.s.llnwi.net/hls/5265.HareKrsna.in.m3u8",
+    "url11": "potplayer://https://m-c09-j2apps.s.llnwi.net/hls/5265.HareKrsna.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0116.Sanskar.in/en/1x1/208x208/test_pic1535465007306.jpg",
+    "title": "[MXTV] Sanskar",
+    "url": "https://m-c29-j2apps.s.llnwi.net/hls/0116.Sanskar.in.m3u8",
+    "url11": "potplayer://https://m-c29-j2apps.s.llnwi.net/hls/0116.Sanskar.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/1115.ShubhsandeshTV.in/en/1x1/208x208/test_pic1543828409920.jpg",
+    "title": "[MXTV] Shubhsandesh TV",
+    "url": "https://m-c08-j2apps.s.llnwi.net/hls/1115.ShubhsandeshTV.in.m3u8",
+    "url11": "potplayer://https://m-c08-j2apps.s.llnwi.net/hls/1115.ShubhsandeshTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0133.Sadhna.in/en/1x1/208x208/test_pic1543827526739.jpg",
+    "title": "[MXTV] Sadhna TV",
+    "url": "https://m-c01-j2apps.s.llnwi.net/hls/0133.Sadhna.in.m3u8",
+    "url11": "potplayer://https://m-c01-j2apps.s.llnwi.net/hls/0133.Sadhna.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/1114.PeaceofMind.in/en/1x1/208x208/test_pic1634710511422.jpg",
+    "title": "[MXTV] Peace of Mind",
+    "url": "https://m-c010-j2apps.s.llnwi.net/hls/1114.PeaceofMind.in.m3u8",
+    "url11": "potplayer://https://m-c010-j2apps.s.llnwi.net/hls/1114.PeaceofMind.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/6491.KrishnaVani.in/en/1x1/208x208/test_pic1552999154509.jpg",
+    "title": "[MXTV] Krishna Vani",
+    "url": "https://m-c03-j2apps.s.llnwi.net/hls/6491.KrishnaVani.in.m3u8",
+    "url11": "potplayer://https://m-c03-j2apps.s.llnwi.net/hls/6491.KrishnaVani.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/5264.GoodnewsTV.in/en/1x1/208x208/test_pic1543828187115.jpg",
+    "title": "[MXTV] Goodnews TV",
+    "url": "https://m-c04-j2apps.s.llnwi.net/hls/5264.GoodnewsTV.in.m3u8",
+    "url11": "potplayer://https://m-c04-j2apps.s.llnwi.net/hls/5264.GoodnewsTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/2639.Epic.in/en/1x1/208x208/test_pic1552315665808.jpg",
+    "title": "[MXTV] Epic",
+    "url": "https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in.m3u8",
+    "url11": "potplayer://https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0178.DDBharati.in/en/1x1/208x208/test_pic1535537628599.jpg",
+    "title": "[MXTV] DD Bharati",
+    "url": "https://m-c049-j2apps.s.llnwi.net/hls/0178.DDBharati.in_dvr.m3u8",
+    "url11": "potplayer://https://m-c049-j2apps.s.llnwi.net/hls/0178.DDBharati.in_dvr.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0353.Firangi.in/en/1x1/208x208/test_pic1535537649542.jpg",
+    "title": "[MXTV] Firangi",
+    "url": "https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in.m3u8",
+    "url11": "potplayer://https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0180.DDIndia.in/en/1x1/208x208/test_pic1552392493086.jpg",
+    "title": "[MXTV] DD India",
+    "url": "https://m-c15-j2apps.s.llnwi.net/hls/0180.DDIndia.in.m3u8",
+    "url11": "potplayer://https://m-c15-j2apps.s.llnwi.net/hls/0180.DDIndia.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/1683.DDMadhyaPradesh.in/en/1x1/208x208/test_pic1535463428992.jpg",
+    "title": "[MXTV] DD Madhya Pradesh",
+    "url": "https://m-c047-j2apps.s.llnwi.net/hls/1683.DDMadhyaPradesh.in.m3u8",
+    "url11": "potplayer://https://m-c047-j2apps.s.llnwi.net/hls/1683.DDMadhyaPradesh.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/9310.GODTV.in/en/1x1/208x208/test_pic1555401186053.jpg",
+    "title": "[MXTV] GOD TV",
+    "url": "https://m-c03-j2apps.s.llnwi.net/hls/9310.GODTV.in.m3u8",
+    "url11": "potplayer://https://m-c03-j2apps.s.llnwi.net/hls/9310.GODTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Bengali",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0252.DDBangla.in/en/1x1/208x208/test_pic1535463247033.jpg",
+    "title": "[MXTV] DD Bangla",
+    "url": "https://m-c048-j2apps.s.llnwi.net/hls/0252.DDBangla.in.m3u8",
+    "url11": "potplayer://https://m-c048-j2apps.s.llnwi.net/hls/0252.DDBangla.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Bengali",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0138.SangeetBangla.in/en/1x1/208x208/test_pic1552387328406.jpg",
+    "title": "[MXTV] Sangeet Bangla",
+    "url": "https://m-c02-j2apps.s.llnwi.net/hls/0138.SangeetBangla.in.m3u8",
+    "url11": "potplayer://https://m-c02-j2apps.s.llnwi.net/hls/0138.SangeetBangla.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Bengali",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/5956.KolkataLive.in/en/1x1/208x208/test_pic1535464177413.jpg",
+    "title": "[MXTV] Kolkata Live",
+    "url": "https://m-c047-j2apps.s.llnwi.net/hls/5956.KolkataLive.in.m3u8",
+    "url11": "potplayer://https://m-c047-j2apps.s.llnwi.net/hls/5956.KolkataLive.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Bhojpuri",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/5332.Dishum.in/en/1x1/208x208/test_pic1537963348466.jpg",
+    "title": "[MXTV] Dishum",
+    "url": "https://m-c29-j2apps.s.llnwi.net/hls/5332.Dishum.in.m3u8",
+    "url11": "potplayer://https://m-c29-j2apps.s.llnwi.net/hls/5332.Dishum.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Bhojpuri",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/1359.AnjanTV.in/en/1x1/208x208/test_pic1535463038783.jpg",
+    "title": "[MXTV] Anjan TV",
+    "url": "https://m-c03-j2apps.s.llnwi.net/hls/1359.AnjanTV.in.m3u8",
+    "url11": "potplayer://https://m-c03-j2apps.s.llnwi.net/hls/1359.AnjanTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0950.DabanggTV.in/en/1x1/208x208/test_pic1537963271535.jpg",
+    "title": "[MXTV] Dabangg TV",
+    "url": "https://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in.m3u8",
+    "url11": "potplayer://https://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Bhojpuri",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/1785.OscarMoviesBhojpuri.in/en/1x1/208x208/test_pic1535464489210.jpg",
+    "title": "[MXTV] Oscar Movies Bhojpuri",
+    "url": "https://m-c16-j2apps.s.llnwi.net/hls/1785.OscarMoviesBhojpuri.in.m3u8",
+    "url11": "potplayer://https://m-c16-j2apps.s.llnwi.net/hls/1785.OscarMoviesBhojpuri.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Bhojpuri",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0432.SangeetBhojpuri.in/en/1x1/208x208/test_pic1552392940661.jpg",
+    "title": "[MXTV] Sangeet Bhojpuri",
+    "url": "https://m-c01-j2apps.s.llnwi.net/hls/0432.SangeetBhojpuri.in.m3u8",
+    "url11": "potplayer://https://m-c01-j2apps.s.llnwi.net/hls/0432.SangeetBhojpuri.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Gujarati",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/6504.ShikshaTV.in/en/1x1/208x208/test_pic1552315803912.jpg",
+    "title": "[MXTV] Shiksha TV",
+    "url": "https://m-a5-j2apps.s.llnwi.net/hls/shikshatv.m3u8",
+    "url11": "potplayer://https://m-a5-j2apps.s.llnwi.net/hls/shikshatv.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Gujarati",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/6518.ValambhaktiHD.in/en/1x1/208x208/test_pic1594732243027.jpg",
+    "title": "[MXTV] Valam TV",
+    "url": "https://m-c08-j2apps.s.llnwi.net/hls/6518.ValambhaktiHD.in.m3u8",
+    "url11": "potplayer://https://m-c08-j2apps.s.llnwi.net/hls/6518.ValambhaktiHD.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Gujarati",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/1738.LakshyaTV.in/en/1x1/208x208/test_pic1558448044895.jpg",
+    "title": "[MXTV] Lakshya TV",
+    "url": "https://m-c04-j2apps.s.llnwi.net/hls/1738.LakshyaTV.in.m3u8",
+    "url11": "potplayer://https://m-c04-j2apps.s.llnwi.net/hls/1738.LakshyaTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Gujarati",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0254.DDGirnar.in/en/1x1/208x208/test_pic1552392459508.jpg",
+    "title": "[MXTV] DD Girnar",
+    "url": "https://m-c18-j2apps.s.llnwi.net/hls/0254.DDGirnar.in.m3u8",
+    "url11": "potplayer://https://m-c18-j2apps.s.llnwi.net/hls/0254.DDGirnar.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Gujarati",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/5730.IndiaNewsGujarat.in/en/1x1/208x208/test_pic1552392553997.jpg",
+    "title": "[MXTV] India News Gujarat",
+    "url": "https://m-c049-j2apps.s.llnwi.net/hls/5730.IndiaNewsGujarat.in.m3u8",
+    "url11": "potplayer://https://m-c049-j2apps.s.llnwi.net/hls/5730.IndiaNewsGujarat.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Gujarati",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/5389.MantavyaNews.in/en/1x1/208x208/test_pic1617348909652.jpg",
+    "title": "[MXTV] Mantavya News",
+    "url": "https://m-c01-j2apps.s.llnwi.net/hls/5389.MantavyaNews.in.m3u8",
+    "url11": "potplayer://https://m-c01-j2apps.s.llnwi.net/hls/5389.MantavyaNews.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/1692.IndiaNewsHaryana.in/en/1x1/208x208/test_pic1535463908195.jpg",
+    "title": "[MXTV] India News Haryana",
+    "url": "https://m-c049-j2apps.s.llnwi.net/hls/1692.IndiaNewsHaryana.in.m3u8",
+    "url11": "potplayer://https://m-c049-j2apps.s.llnwi.net/hls/1692.IndiaNewsHaryana.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Kannada",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0255.DDChandana.in/en/1x1/208x208/test_pic1535463325575.jpg",
+    "title": "[MXTV] DD Chandana",
+    "url": "https://m-c15-j2apps.s.llnwi.net/hls/0255.DDChandana.in.m3u8",
+    "url11": "potplayer://https://m-c15-j2apps.s.llnwi.net/hls/0255.DDChandana.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Kannada",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/5921.NewsXKannada.in/en/1x1/208x208/test_pic1552392725366.jpg",
+    "title": "[MXTV] NewsX Kannada",
+    "url": "https://m-c15-j2apps.s.llnwi.net/hls/5921.NewsXKannada.in.m3u8",
+    "url11": "potplayer://https://m-c15-j2apps.s.llnwi.net/hls/5921.NewsXKannada.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Kannada",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/5412.TV5Kannada.in/en/1x1/208x208/test_pic1542964257973.jpg",
+    "title": "[MXTV] TV5 Kannada",
+    "url": "https://m-c01-j2apps.s.llnwi.net/hls/5412.TV5Kannada.in.m3u8",
+    "url11": "potplayer://https://m-c01-j2apps.s.llnwi.net/hls/5412.TV5Kannada.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Kannada",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/4969.BTV.in/en/1x1/208x208/test_pic1536153017432.jpg",
+    "title": "[MXTV] BTV",
+    "url": "https://m-c047-j2apps.s.llnwi.net/hls/4969.BTV.in.m3u8",
+    "url11": "potplayer://https://m-c047-j2apps.s.llnwi.net/hls/4969.BTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Kashmiri",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0282.DDKashir.in/en/1x1/208x208/test_pic1535463398399.jpg",
+    "title": "[MXTV] DD Kashir",
+    "url": "https://m-c15-j2apps.s.llnwi.net/hls/0282.DDKashir.in.m3u8",
+    "url11": "potplayer://https://m-c15-j2apps.s.llnwi.net/hls/0282.DDKashir.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Malayalam",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/1662.KaumudyTV.in/en/1x1/208x208/test_pic1542008292502.jpg",
+    "title": "[MXTV] Kaumudy TV",
+    "url": "https://m-c049-j2apps.s.llnwi.net/hls/1662.KaumudyTV.in.m3u8",
+    "url11": "potplayer://https://m-c049-j2apps.s.llnwi.net/hls/1662.KaumudyTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Malayalam",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0261.DDMalayalam.in/en/1x1/208x208/test_pic1535463448639.jpg",
+    "title": "[MXTV] DD Malayalam",
+    "url": "https://m-c047-j2apps.s.llnwi.net/hls/0261.DDMalayalam.in.m3u8",
+    "url11": "potplayer://https://m-c047-j2apps.s.llnwi.net/hls/0261.DDMalayalam.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Malayalam",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/1380.KappaTV.in/en/1x1/208x208/test_pic1552384776784.jpg",
+    "title": "[MXTV] Kappa TV",
+    "url": "https://m-c18-j2apps.s.llnwi.net/hls/1380.KappaTV.in.m3u8",
+    "url11": "potplayer://https://m-c18-j2apps.s.llnwi.net/hls/1380.KappaTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Malayalam",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0264.JeevanTV.in/en/1x1/208x208/test_pic1541434103370.jpg",
+    "title": "[MXTV] Jeevan TV",
+    "url": "https://m-c049-j2apps.s.llnwi.net/hls/0264.JeevanTV.in.m3u8",
+    "url11": "potplayer://https://m-c049-j2apps.s.llnwi.net/hls/0264.JeevanTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Marathi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0113.DDSahyadri.in/en/1x1/208x208/test_pic1535463564844.jpg",
+    "title": "[MXTV] DD Sahyadri",
+    "url": "https://m-c048-j2apps.s.llnwi.net/hls/0113.DDSahyadri.in.m3u8",
+    "url11": "potplayer://https://m-c048-j2apps.s.llnwi.net/hls/0113.DDSahyadri.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Marathi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/1759.Maiboli.in/en/1x1/208x208/test_pic1552386808959.jpg",
+    "title": "[MXTV] Maiboli",
+    "url": "https://m-c08-j2apps.s.llnwi.net/hls/1759.Maiboli.in.m3u8",
+    "url11": "potplayer://https://m-c08-j2apps.s.llnwi.net/hls/1759.Maiboli.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Marathi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/3724.SangeetMarathi.in/en/1x1/208x208/test_pic1552392961420.jpg",
+    "title": "[MXTV] Sangeet Marathi",
+    "url": "https://m-c02-j2apps.s.llnwi.net/hls/3724.SangeetMarathi.in.m3u8",
+    "url11": "potplayer://https://m-c02-j2apps.s.llnwi.net/hls/3724.SangeetMarathi.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Marathi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0750.9XJhakaas.in/en/1x1/208x208/test_pic1552384478964.jpg",
+    "title": "[MXTV] 9X Jhakaas",
+    "url": "https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in.m3u8",
+    "url11": "potplayer://https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Assamese",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0284.DDNorthEast.in/en/1x1/208x208/test_pic1535463497675.jpg",
+    "title": "[MXTV] DD North East",
+    "url": "https://m-c15-j2apps.s.llnwi.net/hls/0284.DDNorthEast.in.m3u8",
+    "url11": "potplayer://https://m-c15-j2apps.s.llnwi.net/hls/0284.DDNorthEast.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Punjabi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0263.DDPunjabi.in/en/1x1/208x208/test_pic1538640430775.JPG",
+    "title": "[MXTV] DD Punjabi",
+    "url": "https://m-c048-j2apps.s.llnwi.net/hls/0263.DDPunjabi.in.m3u8",
+    "url11": "potplayer://https://m-c048-j2apps.s.llnwi.net/hls/0263.DDPunjabi.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Punjabi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/5366.Pitaara.in/en/1x1/208x208/test_pic1535976851878.JPG",
+    "title": "[MXTV] Pitaara",
+    "url": "https://m-c08-j2apps.s.llnwi.net/hls/5366.Pitaara.in.m3u8",
+    "url11": "potplayer://https://m-c08-j2apps.s.llnwi.net/hls/5366.Pitaara.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/5416.BoogleBollywood.in/en/1x1/208x208/test_pic1552998444643.jpg",
+    "title": "[MXTV] Boogle Bollywood",
+    "url": "https://m-c01-j2apps.s.llnwi.net/hls/5416.BoogleBollywood.in.m3u8",
+    "url11": "potplayer://https://m-c01-j2apps.s.llnwi.net/hls/5416.BoogleBollywood.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Punjabi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0197.MH1.in/en/1x1/208x208/test_pic1544189994326.jpg",
+    "title": "[MXTV] MH1",
+    "url": "https://m-c049-j2apps.s.llnwi.net/hls/0197.MH1.in.m3u8",
+    "url11": "potplayer://https://m-c049-j2apps.s.llnwi.net/hls/0197.MH1.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Punjabi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/6492.WahPunjabi.in/en/1x1/208x208/test_pic1552999207034.jpg",
+    "title": "[MXTV] Wah Punjabi",
+    "url": "https://m-c03-j2apps.s.llnwi.net/hls/6492.WahPunjabi.in.m3u8",
+    "url11": "potplayer://https://m-c03-j2apps.s.llnwi.net/hls/6492.WahPunjabi.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/1712.IndiaNewsRajasthan.in/en/1x1/208x208/test_pic1552384722318.jpg",
+    "title": "[MXTV] India News Rajasthan",
+    "url": "https://m-c29-j2apps.s.llnwi.net/hls/1712.IndiaNewsRajasthan.in.m3u8",
+    "url11": "potplayer://https://m-c29-j2apps.s.llnwi.net/hls/1712.IndiaNewsRajasthan.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Tamil",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/4154.NambikkaiTV.in/en/1x1/208x208/test_pic1543828333380.jpg",
+    "title": "[MXTV] Nambikkai TV",
+    "url": "https://m-c08-j2apps.s.llnwi.net/hls/4154.NambikkaiTV.in.m3u8",
+    "url11": "potplayer://https://m-c08-j2apps.s.llnwi.net/hls/4154.NambikkaiTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Tamil",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0250.DDPodhigai.in/en/1x1/208x208/test_pic1535463516112.jpg",
+    "title": "[MXTV] DD Podhigai",
+    "url": "https://m-c15-j2apps.s.llnwi.net/hls/0250.DDPodhigai.in.m3u8",
+    "url11": "potplayer://https://m-c15-j2apps.s.llnwi.net/hls/0250.DDPodhigai.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Tamil",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0680.CaptainTV.in/en/1x1/208x208/test_pic1535463113447.jpg",
+    "title": "[MXTV] Captain TV",
+    "url": "https://m-c29-j2apps.s.llnwi.net/hls/0680.CaptainTV.in.m3u8",
+    "url11": "potplayer://https://m-c29-j2apps.s.llnwi.net/hls/0680.CaptainTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Tamil",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/3731.Tunes6.in/en/1x1/208x208/test_pic1552387113014.jpg",
+    "title": "[MXTV] Tunes 6",
+    "url": "https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8",
+    "url11": "potplayer://https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Tamil",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0211.MakkalTV.in/en/1x1/208x208/test_pic1535464283279.jpg",
+    "title": "[MXTV] Makkal TV",
+    "url": "https://m-c18-j2apps.s.llnwi.net/hls/0211.MakkalTV.in.m3u8",
+    "url11": "potplayer://https://m-c18-j2apps.s.llnwi.net/hls/0211.MakkalTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Tamil",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0727.PuthiyaThalaimurai.in/en/1x1/208x208/test_pic1535537717842.jpg",
+    "title": "[MXTV] Puthiya Thalaimurai",
+    "url": "https://m-c18-j2apps.s.llnwi.net/hls/0727.PuthiyaThalaimurai.in.m3u8",
+    "url11": "potplayer://https://m-c18-j2apps.s.llnwi.net/hls/0727.PuthiyaThalaimurai.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Telugu",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0434.Subhavaartha.in/en/1x1/208x208/test_pic1543827303308.jpg",
+    "title": "[MXTV] Subhavaartha",
+    "url": "https://m-c08-j2apps.s.llnwi.net/hls/0434.Subhavaartha.in.m3u8",
+    "url11": "potplayer://https://m-c08-j2apps.s.llnwi.net/hls/0434.Subhavaartha.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Telugu",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0286.DDSaptagiri.in/en/1x1/208x208/test_pic1535463538962.jpg",
+    "title": "[MXTV] DD Saptagiri",
+    "url": "https://m-c15-j2apps.s.llnwi.net/hls/0286.DDSaptagiri.in.m3u8",
+    "url11": "potplayer://https://m-c15-j2apps.s.llnwi.net/hls/0286.DDSaptagiri.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Telugu",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/2269.StudioOne.in/en/1x1/208x208/test_pic1580125615260.jpg",
+    "title": "[MXTV] Studio One Plus",
+    "url": "https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in.m3u8",
+    "url11": "potplayer://https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Telugu",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/1901.Tollywood.in/en/1x1/208x208/test_pic1535465075607.jpg",
+    "title": "[MXTV] Tollywood",
+    "url": "https://m-c16-j2apps.s.llnwi.net/hls/1901.Tollywood.in.m3u8",
+    "url11": "potplayer://https://m-c16-j2apps.s.llnwi.net/hls/1901.Tollywood.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Telugu",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/2880.DDYadagiri.in/en/1x1/208x208/test_pic1535463634327.jpg",
+    "title": "[MXTV] DD Yadagiri",
+    "url": "https://m-c15-j2apps.s.llnwi.net/hls/2880.DDYadagiri.in.m3u8",
+    "url11": "potplayer://https://m-c15-j2apps.s.llnwi.net/hls/2880.DDYadagiri.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Telugu",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0440.TV5Telugu.in/en/1x1/208x208/test_pic1542964247055.jpg",
+    "title": "[MXTV] TV5 Telugu",
+    "url": "https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in.m3u8",
+    "url11": "potplayer://https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Urdu",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0375.AalamiSamay.in/en/1x1/208x208/test_pic1554722534887.jpg",
+    "title": "[MXTV] Sahara Aalami Samay",
+    "url": "https://m-c08-j2apps.s.llnwi.net/hls/0375.AalamiSamay.in.m3u8",
+    "url11": "potplayer://https://m-c08-j2apps.s.llnwi.net/hls/0375.AalamiSamay.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/6006.SuryaSamachar.in/en/1x1/208x208/test_pic1558593274997.jpg",
+    "title": "[MXTV] Surya Samachar",
+    "url": "https://m-c037-j2apps.s.llnwi.net/hls/6006.SuryaSamachar.in.m3u8",
+    "url11": "potplayer://https://m-c037-j2apps.s.llnwi.net/hls/6006.SuryaSamachar.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Telugu",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0515.MahaaTV.in/en/1x1/208x208/test_pic1558352506850.jpg",
+    "title": "[MXTV] Mahaa TV",
+    "url": "https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8",
+    "url11": "potplayer://https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/0389.E24.in/en/1x1/208x208/test_pic1535980264378.jpg",
+    "title": "[MXTV] E24",
+    "url": "https://m-c02-j2apps.s.llnwi.net/hls/0389.E24.in.m3u8",
+    "url11": "potplayer://https://m-c02-j2apps.s.llnwi.net/hls/0389.E24.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/3223.Multiplex.in/en/1x1/208x208/test_pic1565261799196.jpg",
+    "title": "[MXTV] Multiplex",
+    "url": "https://m-c29-j2apps.s.llnwi.net/hls/3223.Multiplex.in.m3u8",
+    "url11": "potplayer://https://m-c29-j2apps.s.llnwi.net/hls/3223.Multiplex.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/6521.Movieplus.in/en/1x1/208x208/test_pic1559821113768.jpg",
+    "title": "[MXTV] Movie Plus",
+    "url": "https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8",
+    "url11": "potplayer://https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Gujarati",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/6652.HamariSanskrutiTV.in/en/1x1/208x208/test_pic1560427725394.jpg",
+    "title": "[MXTV] Hamari Sanskruti TV",
+    "url": "https://m-c04-j2apps.s.llnwi.net/hls/6652.HamariSanskrutiTV.in.m3u8",
+    "url11": "potplayer://https://m-c04-j2apps.s.llnwi.net/hls/6652.HamariSanskrutiTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Oriya",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7001.Kalinga.in/en/1x1/208x208/test_pic1565683828136.jpg",
+    "title": "[MXTV] Kalinga TV",
+    "url": "https://m-c03-j2apps.s.llnwi.net/hls/7001.Kalinga.in.m3u8",
+    "url11": "potplayer://https://m-c03-j2apps.s.llnwi.net/hls/7001.Kalinga.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Gujarati",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7003.Samarpan.in/en/1x1/208x208/test_pic1574080642597.jpg",
+    "title": "[MXTV] Samarpan TV",
+    "url": "https://m-c04-j2apps.s.llnwi.net/hls/7003.Samarpan.in.m3u8",
+    "url11": "potplayer://https://m-c04-j2apps.s.llnwi.net/hls/7003.Samarpan.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7005.FoodFoodChannel.in/en/1x1/208x208/test_pic1566654831939.jpg",
+    "title": "[MXTV] Food Food",
+    "url": "https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8",
+    "url11": "potplayer://https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Russian",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7006.EuroNews.in/en/1x1/208x208/test_pic1567778758221.jpg",
+    "title": "[MXTV] Euro news",
+    "url": "https://m-c08-j2apps.s.llnwi.net/hls/7006.EuroNews.in.m3u8",
+    "url11": "potplayer://https://m-c08-j2apps.s.llnwi.net/hls/7006.EuroNews.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7007.France24.in/en/1x1/208x208/test_pic1567778813838.jpg",
+    "title": "[MXTV] France 24",
+    "url": "https://m-c08-j2apps.s.llnwi.net/hls/7007.France24.in.m3u8",
+    "url11": "potplayer://https://m-c08-j2apps.s.llnwi.net/hls/7007.France24.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7008.TV5MondeASIE.in/en/1x1/208x208/test_pic1567778886223.jpg",
+    "title": "[MXTV] TV5 monde ASIE",
+    "url": "https://m-c08-j2apps.s.llnwi.net/hls/7008.TV5MondeASIE.in.m3u8",
+    "url11": "potplayer://https://m-c08-j2apps.s.llnwi.net/hls/7008.TV5MondeASIE.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7009.KaatyaniTV.in/en/1x1/208x208/test_pic1568193158605.jpg",
+    "title": "[MXTV] Kaatyani TV",
+    "url": "https://m-c08-j2apps.s.llnwi.net/hls/7009.KaatyaniTV.in.m3u8",
+    "url11": "potplayer://https://m-c08-j2apps.s.llnwi.net/hls/7009.KaatyaniTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8006.GamingTVEG.in/en/1x1/208x208/test_pic1574771149731.jpg",
+    "title": "[MXTV] Gaming TV English",
+    "url": "https://m-c09-j2apps.s.llnwi.net/hls/8006.GamingTVEG.in.m3u8",
+    "url11": "potplayer://https://m-c09-j2apps.s.llnwi.net/hls/8006.GamingTVEG.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Malayalam",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8004.Mollywood.in/en/1x1/208x208/test_pic1574771014744.jpg",
+    "title": "[MXTV] Mollywood",
+    "url": "https://m-c09-j2apps.s.llnwi.net/hls/8004.Mollywood.in.m3u8",
+    "url11": "potplayer://https://m-c09-j2apps.s.llnwi.net/hls/8004.Mollywood.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8013.TopDJTV.in/en/1x1/208x208/test_pic1574772740007.jpg",
+    "title": "[MXTV] Top DJ TV",
+    "url": "https://m-c09-j2apps.s.llnwi.net/hls/8013.TopDJTV.in.m3u8",
+    "url11": "potplayer://https://m-c09-j2apps.s.llnwi.net/hls/8013.TopDJTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Urdu",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8003.Lollywood.in/en/1x1/208x208/test_pic1574770942319.jpg",
+    "title": "[MXTV] Lollywood",
+    "url": "https://m-c09-j2apps.s.llnwi.net/hls/8003.Lollywood.in.m3u8",
+    "url11": "potplayer://https://m-c09-j2apps.s.llnwi.net/hls/8003.Lollywood.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX ",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8018.FitnessTV.in/en/1x1/208x208/test_pic1574772434791.jpg",
+    "title": "[MXTV] Fitness TV",
+    "url": "https://m-c09-j2apps.s.llnwi.net/hls/8018.FitnessTV.in.m3u8",
+    "url11": "potplayer://https://m-c09-j2apps.s.llnwi.net/hls/8018.FitnessTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8012.MovieZone.in/en/1x1/208x208/test_pic1574772096183.jpg",
+    "title": "[MXTV] Movies Zone",
+    "url": "https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in.m3u8",
+    "url11": "potplayer://https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8001.Bollywood.in/en/1x1/208x208/test_pic1574770761731.jpg",
+    "title": "[MXTV] Bollywood",
+    "url": "https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8",
+    "url11": "potplayer://https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8011.ShortFilmsTV.in/en/1x1/208x208/test_pic1574771939190.jpg",
+    "title": "[MXTV] Short Films TV",
+    "url": "https://m-c09-j2apps.s.llnwi.net/hls/8011.ShortFilmsTV.in.m3u8",
+    "url11": "potplayer://https://m-c09-j2apps.s.llnwi.net/hls/8011.ShortFilmsTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8017.FootballTV.in/en/1x1/208x208/test_pic1574772381747.jpg",
+    "title": "[MXTV] Football TV",
+    "url": "https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in.m3u8",
+    "url11": "potplayer://https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX ",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8007.GamingTVSP.in/en/1x1/208x208/test_pic1574771254803.jpg",
+    "title": "[MXTV] Gaming TV Spanish",
+    "url": "https://m-c09-j2apps.s.llnwi.net/hls/8007.GamingTVSP.in.m3u8",
+    "url11": "potplayer://https://m-c09-j2apps.s.llnwi.net/hls/8007.GamingTVSP.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8016.SportsTV.in/en/1x1/208x208/test_pic1574772297087.jpg",
+    "title": "[MXTV] Sports TV",
+    "url": "https://m-c09-j2apps.s.llnwi.net/hls/8016.SportsTV.in.m3u8",
+    "url11": "potplayer://https://m-c09-j2apps.s.llnwi.net/hls/8016.SportsTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Tamil",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8002.Kollywood.in/en/1x1/208x208/test_pic1574770846721.jpg",
+    "title": "[MXTV] Kollywood",
+    "url": "https://m-c09-j2apps.s.llnwi.net/hls/8002.Kollywood.in.m3u8",
+    "url11": "potplayer://https://m-c09-j2apps.s.llnwi.net/hls/8002.Kollywood.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Bengali",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8005.Tollywood.in/en/1x1/208x208/test_pic1574771082050.jpg",
+    "title": "[MXTV] Tolly wood",
+    "url": "https://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in.m3u8",
+    "url11": "potplayer://https://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8010.SeriesZone.in/en/1x1/208x208/test_pic1574771849293.jpg",
+    "title": "[MXTV] Series Zone",
+    "url": "https://m-c09-j2apps.s.llnwi.net/hls/8010.SeriesZone.in.m3u8",
+    "url11": "potplayer://https://m-c09-j2apps.s.llnwi.net/hls/8010.SeriesZone.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8014.FightTV.in/en/1x1/208x208/test_pic1574772178068.jpg",
+    "title": "[MXTV] Fight TV",
+    "url": "https://m-c09-j2apps.s.llnwi.net/hls/8014.FightTV.in.m3u8",
+    "url11": "potplayer://https://m-c09-j2apps.s.llnwi.net/hls/8014.FightTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8020.LanguageCourseEnglish.in/en/1x1/208x208/test_pic1574772507867.jpg",
+    "title": "[MXTV] Language Course English",
+    "url": "https://m-c09-j2apps.s.llnwi.net/hls/8020.LanguageCourseEnglish.in.m3u8",
+    "url11": "potplayer://https://m-c09-j2apps.s.llnwi.net/hls/8020.LanguageCourseEnglish.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX ",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8021.LanguageCourseSpanish.in/en/1x1/208x208/test_pic1574840370069.jpg",
+    "title": "[MXTV] Language Course Spanish",
+    "url": "https://m-c09-j2apps.s.llnwi.net/hls/8021.LanguageCourseSpanish.in.m3u8",
+    "url11": "potplayer://https://m-c09-j2apps.s.llnwi.net/hls/8021.LanguageCourseSpanish.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Kannada",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8022.Samaranews.in/en/1x1/208x208/test_pic1611217920316.jpg",
+    "title": "[MXTV] Samara news",
+    "url": "https://m-c09-j2apps.s.llnwi.net/hls/8022.Samaranews.in.m3u8",
+    "url11": "potplayer://https://m-c09-j2apps.s.llnwi.net/hls/8022.Samaranews.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8023.DWEnglish.in/en/1x1/208x208/test_pic1572423641700.jpg",
+    "title": "[MXTV] DW English",
+    "url": "https://m-c010-j2apps.s.llnwi.net/hls/8023.DWEnglish.in.m3u8",
+    "url11": "potplayer://https://m-c010-j2apps.s.llnwi.net/hls/8023.DWEnglish.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Gujarati",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7010.KalyanTV.in/en/1x1/208x208/test_pic1574075076834.jpg",
+    "title": "[MXTV] Kalyan TV",
+    "url": "https://m-c02-j2apps.s.llnwi.net/hls/7010.KalyanTV.in.m3u8",
+    "url11": "potplayer://https://m-c02-j2apps.s.llnwi.net/hls/7010.KalyanTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8024.DWEnglishHD.in/en/1x1/208x208/test_pic1574858634218.jpg",
+    "title": "[MXTV] DW English HD",
+    "url": "https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8",
+    "url11": "potplayer://https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX German",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8025.DWEnglishDeutsch.in/en/1x1/208x208/test_pic1574768028648.jpg",
+    "title": "[MXTV] DW Deutsch",
+    "url": "https://m-c010-j2apps.s.llnwi.net/hls/8025.DWEnglishDeutsch.in.m3u8",
+    "url11": "potplayer://https://m-c010-j2apps.s.llnwi.net/hls/8025.DWEnglishDeutsch.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8027.CarsAndStars.in/en/1x1/208x208/test_pic1575958674835.jpg",
+    "title": "[MXTV] Cars and stars",
+    "url": "https://m-c010-j2apps.s.llnwi.net/hls/8027.CarsAndStars.in.m3u8",
+    "url11": "potplayer://https://m-c010-j2apps.s.llnwi.net/hls/8027.CarsAndStars.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Punjabi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7012.GarvGurbani.in/en/1x1/208x208/test_pic1579682040846.jpg",
+    "title": "[MXTV] Garv Gurbani",
+    "url": "https://m-c010-j2apps.s.llnwi.net/hls/7012.GarvGurbani.in.m3u8",
+    "url11": "potplayer://https://m-c010-j2apps.s.llnwi.net/hls/7012.GarvGurbani.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Punjabi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7013.GarvPunjab.in/en/1x1/208x208/test_pic1579682053449.jpg",
+    "title": "[MXTV] Garv punjab",
+    "url": "https://m-c010-j2apps.s.llnwi.net/hls/7013.GarvPunjab.in.m3u8",
+    "url11": "potplayer://https://m-c010-j2apps.s.llnwi.net/hls/7013.GarvPunjab.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Gujarati",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7011.SwarShree.in/en/1x1/208x208/test_pic1579508918786.jpg",
+    "title": "[MXTV] Swar Shree",
+    "url": "https://m-c010-j2apps.s.llnwi.net/hls/7011.SwarShree.in.m3u8",
+    "url11": "potplayer://https://m-c010-j2apps.s.llnwi.net/hls/7011.SwarShree.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Punjabi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7018.ABPSanjha.in/en/1x1/208x208/test_pic1608057219454.jpg",
+    "title": "[MXTV] ABP Sanjha",
+    "url": "https://m-c02-j2apps.s.llnwi.net/hls/7018.ABPSanjha.in.m3u8",
+    "url11": "potplayer://https://m-c02-j2apps.s.llnwi.net/hls/7018.ABPSanjha.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Bengali",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7015.ABPAnanda.in/en/1x1/208x208/test_pic1608057252931.jpg",
+    "title": "[MXTV] ABP Ananda",
+    "url": "https://m-c02-j2apps.s.llnwi.net/hls/7015.ABPAnanda.in.m3u8",
+    "url11": "potplayer://https://m-c02-j2apps.s.llnwi.net/hls/7015.ABPAnanda.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7017.ABPGanga.in/en/1x1/208x208/test_pic1608057289870.jpg",
+    "title": "[MXTV] ABP Ganga",
+    "url": "https://m-c02-j2apps.s.llnwi.net/hls/7017.ABPGanga.in.m3u8",
+    "url11": "potplayer://https://m-c02-j2apps.s.llnwi.net/hls/7017.ABPGanga.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Gujarati",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7019.ABPAsmita.in/en/1x1/208x208/test_pic1608057325628.jpg",
+    "title": "[MXTV] ABP Asmita",
+    "url": "https://m-c02-j2apps.s.llnwi.net/hls/7019.ABPAsmita.in.m3u8",
+    "url11": "potplayer://https://m-c02-j2apps.s.llnwi.net/hls/7019.ABPAsmita.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8045.QIndiaTV.in/en/1x1/208x208/test_pic1601378980873.jpg",
+    "title": "[MXTV] THE Q",
+    "url": "https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in.m3u8",
+    "url11": "potplayer://https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8047.Spydar.in/en/1x1/208x208/test_pic1588324101774.jpg",
+    "title": "[MXTV] Spydar",
+    "url": "https://simultv.s.llnwi.net/o033/simspydar/ngrp:simspydar_simul/playlist.m3u8",
+    "url11": "potplayer://https://simultv.s.llnwi.net/o033/simspydar/ngrp:simspydar_simul/playlist.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8046.KidCentral.in/en/1x1/208x208/test_pic1588324065935.jpg",
+    "title": "[MXTV] Kid Central",
+    "url": "https://m-c010-j2apps.s.llnwi.net/hls/8046.KidCentral.in.m3u8",
+    "url11": "potplayer://https://m-c010-j2apps.s.llnwi.net/hls/8046.KidCentral.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8052.Switch.in/en/1x1/208x208/test_pic1588324287290.jpg",
+    "title": "[MXTV] Switch",
+    "url": "https://simultv.s.llnwi.net/o033/simswitch/ngrp:simswitch_simul/playlist.m3u8",
+    "url11": "potplayer://https://simultv.s.llnwi.net/o033/simswitch/ngrp:simswitch_simul/playlist.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8050.OutdoorLifestyle.in/en/1x1/208x208/test_pic1588324225118.jpg",
+    "title": "[MXTV] Outdoor Lifestyle",
+    "url": "https://simultv.s.llnwi.net/o034/bonnier247/ngrp:bonnier247_simul/playlist.m3u8",
+    "url11": "potplayer://https://simultv.s.llnwi.net/o034/bonnier247/ngrp:bonnier247_simul/playlist.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8048.MenAndMotors.in/en/1x1/208x208/test_pic1588324144958.jpg",
+    "title": "[MXTV] Men and Motors",
+    "url": "https://simultv.s.llnwi.net/o034/simmenandmotors/ngrp:simmenandmotors_simul/playlist.m3u8",
+    "url11": "potplayer://https://simultv.s.llnwi.net/o034/simmenandmotors/ngrp:simmenandmotors_simul/playlist.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8049.PrimeTimeDrama.in/en/1x1/208x208/test_pic1588324178028.jpg",
+    "title": "[MXTV] Prime Time Drama",
+    "url": "https://simultv.s.llnwi.net/o034/simprimetimedrama/ngrp:simprimetimedrama_simul/playlist.m3u8",
+    "url11": "potplayer://https://simultv.s.llnwi.net/o034/simprimetimedrama/ngrp:simprimetimedrama_simul/playlist.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8051.XZone.in/en/1x1/208x208/test_pic1588324259884.jpg",
+    "title": "[MXTV] XZone",
+    "url": "https://simultv.s.llnwi.net/o033/simxzone/ngrp:simxzone_simul/playlist.m3u8",
+    "url11": "potplayer://https://simultv.s.llnwi.net/o033/simxzone/ngrp:simxzone_simul/playlist.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7039.JigyasaTV.in/en/1x1/208x208/test_pic1583246986689.jpg",
+    "title": "[MXTV] Jigyasa TV",
+    "url": "https://m-c01-j2apps.s.llnwi.net/hls/7039.JigyasaTV.in.m3u8",
+    "url11": "potplayer://https://m-c01-j2apps.s.llnwi.net/hls/7039.JigyasaTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8030.TVIQ.in/en/1x1/208x208/test_pic1587704854399.jpg",
+    "title": "[MXTV] TV IQ",
+    "url": "https://m-c010-j2apps.s.llnwi.net/hls/8030.TVIQ.in.m3u8",
+    "url11": "potplayer://https://m-c010-j2apps.s.llnwi.net/hls/8030.TVIQ.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7043.News1India.in/en/1x1/208x208/test_pic1588701259991.jpg",
+    "title": "[MXTV] News 1 India",
+    "url": "https://m-c18-j2apps.s.llnwi.net/hls/7043.News1India.in.m3u8",
+    "url11": "potplayer://https://m-c18-j2apps.s.llnwi.net/hls/7043.News1India.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Bengali",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7042.OrangeBangla.in/en/1x1/208x208/test_pic1588701216492.jpg",
+    "title": "[MXTV] Orange Bangla",
+    "url": "https://m-c18-j2apps.s.llnwi.net/hls/7042.OrangeBangla.in.m3u8",
+    "url11": "potplayer://https://m-c18-j2apps.s.llnwi.net/hls/7042.OrangeBangla.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7041.DDRetro.in/en/1x1/208x208/test_pic1588701102113.jpg",
+    "title": "[MXTV] DD Retro",
+    "url": "https://m-c037-j2apps.s.llnwi.net/hls/7041.DDRetro.in_dvr.m3u8",
+    "url11": "potplayer://https://m-c037-j2apps.s.llnwi.net/hls/7041.DDRetro.in_dvr.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7044.NavtejTV.in/en/1x1/208x208/test_pic1589273679175.jpg",
+    "title": "[MXTV] Navtej TV",
+    "url": "https://m-c049-j2apps.s.llnwi.net/hls/7044.NavtejTV.in.m3u8",
+    "url11": "potplayer://https://m-c049-j2apps.s.llnwi.net/hls/7044.NavtejTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Punjabi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8053.LifePunjabi.in/en/1x1/208x208/test_pic1609307117310.jpg",
+    "title": "[MXTV] 7x Music",
+    "url": "https://m-c010-j2apps.s.llnwi.net/hls/8053.LifePunjabi.in.m3u8",
+    "url11": "potplayer://https://m-c010-j2apps.s.llnwi.net/hls/8053.LifePunjabi.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7048.NationalVoice.in/en/1x1/208x208/test_pic1593666061152.jpg",
+    "title": "[MXTV] National Voice",
+    "url": "https://m-c05-j2apps.s.llnwi.net/hls/7048.NationalVoice.in.m3u8",
+    "url11": "potplayer://https://m-c05-j2apps.s.llnwi.net/hls/7048.NationalVoice.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Punjabi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7049.DesiChannel.in/en/1x1/208x208/test_pic1590737770507.jpg",
+    "title": "[MXTV] Desi Channel",
+    "url": "https://m-c07-j2apps.s.llnwi.net/hls/7049.DesiChannel.in.m3u8",
+    "url11": "potplayer://https://m-c07-j2apps.s.llnwi.net/hls/7049.DesiChannel.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Punjabi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7053.NewsOnly.in/en/1x1/208x208/test_pic1590737990207.jpg",
+    "title": "[MXTV] News Only",
+    "url": "https://m-c03-j2apps.s.llnwi.net/hls/7053.NewsOnly.in.m3u8",
+    "url11": "potplayer://https://m-c03-j2apps.s.llnwi.net/hls/7053.NewsOnly.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Punjabi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7055.Gurbani.in/en/1x1/208x208/test_pic1590738214212.jpg",
+    "title": "[MXTV] Gurkibani",
+    "url": "https://m-c03-j2apps.s.llnwi.net/hls/7055.Gurbani.in.m3u8",
+    "url11": "potplayer://https://m-c03-j2apps.s.llnwi.net/hls/7055.Gurbani.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7058.BalleBalle.in/en/1x1/208x208/test_pic1590764832420.jpg",
+    "title": "[MXTV] Balle Balle",
+    "url": "https://m-c049-j2apps.s.llnwi.net/hls/7058.BalleBalle.in.m3u8",
+    "url11": "potplayer://https://m-c049-j2apps.s.llnwi.net/hls/7058.BalleBalle.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7059.SailLeela.in/en/1x1/208x208/test_pic1590845528353.jpg",
+    "title": "[MXTV] Sai leela",
+    "url": "https://m-c03-j2apps.s.llnwi.net/hls/7059.SailLeela.in.m3u8",
+    "url11": "potplayer://https://m-c03-j2apps.s.llnwi.net/hls/7059.SailLeela.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7060.BharatSamachar.in/en/1x1/208x208/test_pic1591601853502.jpg",
+    "title": "[MXTV] Bharat Samachar",
+    "url": "https://m-c05-j2apps.s.llnwi.net/hls/7060.BharatSamachar.in.m3u8",
+    "url11": "potplayer://https://m-c05-j2apps.s.llnwi.net/hls/7060.BharatSamachar.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Bengali",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7063.CalcuttaNews.in/en/1x1/208x208/test_pic1592837900794.jpg",
+    "title": "[MXTV] Calcutta News",
+    "url": "https://m-c05-j2apps.s.llnwi.net/hls/7063.CalcuttaNews.in.m3u8",
+    "url11": "potplayer://https://m-c05-j2apps.s.llnwi.net/hls/7063.CalcuttaNews.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Gujarati",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7061.Kartavya.in/en/1x1/208x208/test_pic1592929332248.jpg",
+    "title": "[MXTV] Kartavya",
+    "url": "https://m-c09-j2apps.s.llnwi.net/hls/7061.Kartavya.in.m3u8",
+    "url11": "potplayer://https://m-c09-j2apps.s.llnwi.net/hls/7061.Kartavya.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Bengali",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7062.CTVN.in/en/1x1/208x208/test_pic1592837752703.jpg",
+    "title": "[MXTV] CTVN",
+    "url": "https://m-c05-j2apps.s.llnwi.net/hls/7062.CTVN.in.m3u8",
+    "url11": "potplayer://https://m-c05-j2apps.s.llnwi.net/hls/7062.CTVN.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Oriya",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7065.NaxatraNews.in/en/1x1/208x208/test_pic1593160984745.jpg",
+    "title": "[MXTV] Naxatra News Channel",
+    "url": "https://m-c05-j2apps.s.llnwi.net/hls/7065.NaxatraNews.in.m3u8",
+    "url11": "potplayer://https://m-c05-j2apps.s.llnwi.net/hls/7065.NaxatraNews.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Punjabi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7070.RajMahalTV.in/en/1x1/208x208/test_pic1594051312699.jpg",
+    "title": "[MXTV] Raj Mahal TV",
+    "url": "https://m-c047-j2apps.s.llnwi.net/hls/7070.RajMahalTV.in.m3u8",
+    "url11": "potplayer://https://m-c047-j2apps.s.llnwi.net/hls/7070.RajMahalTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Punjabi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7067.WorldPunjabi.in/en/1x1/208x208/test_pic1594303274561.jpg",
+    "title": "[MXTV] World Punjabi",
+    "url": "https://m-c047-j2apps.s.llnwi.net/hls/7067.WorldPunjabi.in.m3u8",
+    "url11": "potplayer://https://m-c047-j2apps.s.llnwi.net/hls/7067.WorldPunjabi.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8060.HerePlay.in/en/1x1/208x208/test_pic1623315767373.jpg",
+    "title": "[MXTV] Planet Out",
+    "url": "https://api-ott.jungoplus.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=3159&partner=mxplayer",
+    "url11": "potplayer://https://api-ott.jungoplus.com/loggingmediaurlpassthrough/a.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8061.Waah.in/en/1x1/208x208/test_pic1604382747316.jpg",
+    "title": "[MXTV] Waah",
+    "url": "https://xtremecdn.com/v1/uplynk-beta/mxplayer/test/waah/f544866de3e246f69fd064ca6aaf9983.m3u8",
+    "url11": "potplayer://https://xtremecdn.com/v1/uplynk-beta/mxplayer/test/waah/f544866de3e246f69fd064ca6aaf9983.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8063.ES24.in/en/1x1/208x208/test_pic1623314760124.jpg",
+    "title": "[MXTV] ES24",
+    "url": "https://ov.ottera.tv/live/master2300000.m3u8;session=jun_es",
+    "url11": "potplayer://https://ov.ottera.tv/live/master2300000.m3u8;session=jun_es"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8055.CombatGO.in/en/1x1/208x208/test_pic1602154545160.jpg",
+    "title": "[MXTV] Combat Go",
+    "url": "https://m-c07-j2apps.s.llnwi.net/hls_hd/8055.CombatGO.in.m3u8",
+    "url11": "potplayer://https://m-c07-j2apps.s.llnwi.net/hls_hd/8055.CombatGO.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7071.DivyalokTV.in/en/1x1/208x208/test_pic1594192150504.jpg",
+    "title": "[MXTV] Divyalok TV",
+    "url": "https://m-c05-j2apps.s.llnwi.net/hls/7071.DivyalokTV.in.m3u8",
+    "url11": "potplayer://https://m-c05-j2apps.s.llnwi.net/hls/7071.DivyalokTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Marathi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7072.ShemarooMarathibana.in/en/1x1/208x208/test_pic1594370246744.jpg",
+    "title": "[MXTV] Shemaroo Marathibana",
+    "url": "https://m-c06-j2apps.s.llnwi.net/hls/7072.ShemarooMarathibana.in.m3u8",
+    "url11": "potplayer://https://m-c06-j2apps.s.llnwi.net/hls/7072.ShemarooMarathibana.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Tamil",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7074.MalaiMurasuTV.in/en/1x1/208x208/test_pic1594370421566.jpg",
+    "title": "[MXTV] Malai Murasu TV",
+    "url": "https://m-c06-j2apps.s.llnwi.net/hls/7074.MalaiMurasuTV.in.m3u8",
+    "url11": "potplayer://https://m-c06-j2apps.s.llnwi.net/hls/7074.MalaiMurasuTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7076.HNN.in/en/1x1/208x208/test_pic1621508360754.jpg",
+    "title": "[MXTV] HNN 24x7",
+    "url": "https://m-c010-j2apps.s.llnwi.net/hls/7076.HNN.in.m3u8",
+    "url11": "potplayer://https://m-c010-j2apps.s.llnwi.net/hls/7076.HNN.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7073.FunTV.in/en/1x1/208x208/test_pic1595760664890.jpg",
+    "title": "[MXTV] Shemaroo TV",
+    "url": "https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8",
+    "url11": "potplayer://https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7075.Wintech.in/en/1x1/208x208/test_pic1595830723422.jpg",
+    "title": "[MXTV] Channel Win",
+    "url": "https://m-c010-j2apps.s.llnwi.net/hls/7075.Wintech.in.m3u8",
+    "url11": "potplayer://https://m-c010-j2apps.s.llnwi.net/hls/7075.Wintech.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Tamil",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7077.VendarTV.in/en/1x1/208x208/test_pic1596109828563.jpg",
+    "title": "[MXTV] Vendhar TV",
+    "url": "https://m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in.m3u8",
+    "url11": "potplayer://https://m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7078.JanTV.in/en/1x1/208x208/test_pic1596355844398.jpg",
+    "title": "[MXTV] Jan TV",
+    "url": "https://m-c010-j2apps.s.llnwi.net/hls/7078.JanTV.in.m3u8",
+    "url11": "potplayer://https://m-c010-j2apps.s.llnwi.net/hls/7078.JanTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7079.News36.in/en/1x1/208x208/test_pic1596797584928.jpg",
+    "title": "[MXTV] News 36",
+    "url": "https://m-c06-j2apps.s.llnwi.net/hls/7079.News36.in.m3u8",
+    "url11": "potplayer://https://m-c06-j2apps.s.llnwi.net/hls/7079.News36.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7080.SuryaCinema.in/en/1x1/208x208/test_pic1596797633781.jpg",
+    "title": "[MXTV] Surya Cinema",
+    "url": "https://m-c06-j2apps.s.llnwi.net/hls/7080.SuryaCinema.in.m3u8",
+    "url11": "potplayer://https://m-c06-j2apps.s.llnwi.net/hls/7080.SuryaCinema.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Bhojpuri",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7081.SuryaBhojpuri.in/en/1x1/208x208/test_pic1596797684856.jpg",
+    "title": "[MXTV] Surya Bhojpuri",
+    "url": "https://m-c06-j2apps.s.llnwi.net/hls/7081.SuryaBhojpuri.in.m3u8",
+    "url11": "potplayer://https://m-c06-j2apps.s.llnwi.net/hls/7081.SuryaBhojpuri.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Haryanvi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7082.HaryanviHits.in/en/1x1/208x208/test_pic1598595984676.jpg",
+    "title": "[MXTV] Haryanvi Hits",
+    "url": "https://m-c037-j2apps.s.llnwi.net/hls/7082.HaryanviHits.in.m3u8",
+    "url11": "potplayer://https://m-c037-j2apps.s.llnwi.net/hls/7082.HaryanviHits.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Marathi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7083.ZoomOnNews.in/en/1x1/208x208/test_pic1599546034201.jpg",
+    "title": "[MXTV] Zoomon News",
+    "url": "https://m-c06-j2apps.s.llnwi.net/hls/7083.ZoomOnNews.in.m3u8",
+    "url11": "potplayer://https://m-c06-j2apps.s.llnwi.net/hls/7083.ZoomOnNews.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Punjabi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7087.PunjabiNational.in/en/1x1/208x208/test_pic1599546239976.jpg",
+    "title": "[MXTV] Punjabi National",
+    "url": "https://m-c03-j2apps.s.llnwi.net/hls/7087.PunjabiNational.in.m3u8",
+    "url11": "potplayer://https://m-c03-j2apps.s.llnwi.net/hls/7087.PunjabiNational.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Punjabi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7085.PurePunjabi.in/en/1x1/208x208/test_pic1599633878424.jpg",
+    "title": "[MXTV] Pure Punjabi",
+    "url": "https://m-c03-j2apps.s.llnwi.net/hls/7085.PurePunjabi.in.m3u8",
+    "url11": "potplayer://https://m-c03-j2apps.s.llnwi.net/hls/7085.PurePunjabi.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7094.NimbarkTV.in/en/1x1/208x208/test_pic1600090313942.jpg",
+    "title": "[MXTV] Nimbark TV",
+    "url": "https://m-c036-j2apps.s.llnwi.net/hls/7094.NimbarkTV.in.m3u8",
+    "url11": "potplayer://https://m-c036-j2apps.s.llnwi.net/hls/7094.NimbarkTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7090.SamacharNews.in/en/1x1/208x208/test_pic1600172897585.jpg",
+    "title": "[MXTV] Samachar Today",
+    "url": "https://m-c010-j2apps.s.llnwi.net/hls/7090.SamacharNews.in.m3u8",
+    "url11": "potplayer://https://m-c010-j2apps.s.llnwi.net/hls/7090.SamacharNews.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Malayalam",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7082.RealNewskerela.in/en/1x1/208x208/test_pic1600428716946.png",
+    "title": "[MXTV] Real News Kerala",
+    "url": "https://m-c010-j2apps.s.llnwi.net/hls/7082.RealNewskerela.in.m3u8",
+    "url11": "potplayer://https://m-c010-j2apps.s.llnwi.net/hls/7082.RealNewskerela.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7089.Network10News.in/en/1x1/208x208/test_pic1600172827751.jpg",
+    "title": "[MXTV] Network 10 New",
+    "url": "https://m-c010-j2apps.s.llnwi.net/hls/7089.Network10News.in.m3u8",
+    "url11": "potplayer://https://m-c010-j2apps.s.llnwi.net/hls/7089.Network10News.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7091.Sudarsahn.in/en/1x1/208x208/test_pic1600172687942.jpg",
+    "title": "[MXTV] Sudarshan News",
+    "url": "https://m-c010-j2apps.s.llnwi.net/hls/7091.Sudarsahn.in.m3u8",
+    "url11": "potplayer://https://m-c010-j2apps.s.llnwi.net/hls/7091.Sudarsahn.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7097.PrimeNews.in/en/1x1/208x208/test_pic1601186308774.jpg",
+    "title": "[MXTV] Prime News",
+    "url": "https://m-c010-j2apps.s.llnwi.net/hls/7097.PrimeNews.in.m3u8",
+    "url11": "potplayer://https://m-c010-j2apps.s.llnwi.net/hls/7097.PrimeNews.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Kannada",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/7099.NewsFirstKannada.in/en/1x1/208x208/test_pic1601286208422.jpg",
+    "title": "[MXTV] News First Kannada",
+    "url": "https://m-c010-j2apps.s.llnwi.net/hls/7099.NewsFirstKannada.in.m3u8",
+    "url11": "potplayer://https://m-c010-j2apps.s.llnwi.net/hls/7099.NewsFirstKannada.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Gujarati",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8004.DivyangNews.in/en/1x1/208x208/test_pic1602174607335.jpg",
+    "title": "[MXTV] Divyang News",
+    "url": "https://m-c050-j2apps.s.llnwi.net/hls/8004.DivyangNews.in.m3u8",
+    "url11": "potplayer://https://m-c050-j2apps.s.llnwi.net/hls/8004.DivyangNews.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Bengali",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8001.GlobeTV.in/en/1x1/208x208/test_pic1602174499754.jpg",
+    "title": "[MXTV] Globe TV",
+    "url": "https://m-c050-j2apps.s.llnwi.net/hls/8001.GlobeTV.in.m3u8",
+    "url11": "potplayer://https://m-c050-j2apps.s.llnwi.net/hls/8001.GlobeTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Bengali",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8000.BaglaBhakti.in/en/1x1/208x208/test_pic1602226451288.jpg",
+    "title": "[MXTV] Bangla Bhakti",
+    "url": "https://m-c050-j2apps.s.llnwi.net/hls/8000.BaglaBhakti.in.m3u8",
+    "url11": "potplayer://https://m-c050-j2apps.s.llnwi.net/hls/8000.BaglaBhakti.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Bengali",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8005.SristiTV.in/en/1x1/208x208/test_pic1602316479819.jpg",
+    "title": "[MXTV] Sristi TV",
+    "url": "https://m-c050-j2apps.s.llnwi.net/hls/8005.SristiTV.in.m3u8",
+    "url11": "potplayer://https://m-c050-j2apps.s.llnwi.net/hls/8005.SristiTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8006.35MM.in/en/1x1/208x208/test_pic1602316527038.jpg",
+    "title": "[MXTV] 35MM",
+    "url": "https://m-c050-j2apps.s.llnwi.net/hls/8006.35MM.in.m3u8",
+    "url11": "potplayer://https://m-c050-j2apps.s.llnwi.net/hls/8006.35MM.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Gujarati",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8008.BuletinNews.in/en/1x1/208x208/test_pic1633413269372.jpg",
+    "title": "[MXTV] Buletin India",
+    "url": "https://m-c050-j2apps.s.llnwi.net/hls/8008.BuletinNews.in.m3u8",
+    "url11": "potplayer://https://m-c050-j2apps.s.llnwi.net/hls/8008.BuletinNews.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8010.TNIAwaaz.in/en/1x1/208x208/test_pic1602937210473.jpg",
+    "title": "[MXTV] TNI Awaaz",
+    "url": "https://m-c050-j2apps.s.llnwi.net/hls/8010.TNIAwaaz.in.m3u8",
+    "url11": "potplayer://https://m-c050-j2apps.s.llnwi.net/hls/8010.TNIAwaaz.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8015.ABNews.in/en/1x1/208x208/test_pic1603097667243.jpg",
+    "title": "[MXTV] AB News",
+    "url": "https://m-c06-j2apps.s.llnwi.net/hls/8015.ABNews.in.m3u8",
+    "url11": "potplayer://https://m-c06-j2apps.s.llnwi.net/hls/8015.ABNews.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8014.ABStarNews.in/en/1x1/208x208/test_pic1603097598404.jpg",
+    "title": "[MXTV] AB Star News",
+    "url": "https://m-c05-j2apps.s.llnwi.net/hls/8014.ABStarNews.in.m3u8",
+    "url11": "potplayer://https://m-c05-j2apps.s.llnwi.net/hls/8014.ABStarNews.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8016.BrajDarshan.in/en/1x1/208x208/test_pic1603097917006.jpg",
+    "title": "[MXTV] Braj Darshan",
+    "url": "https://m-c06-j2apps.s.llnwi.net/hls/8016.BrajDarshan.in.m3u8",
+    "url11": "potplayer://https://m-c06-j2apps.s.llnwi.net/hls/8016.BrajDarshan.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Kannada",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8017.ExpressShiksha.in/en/1x1/208x208/test_pic1603097974510.jpg",
+    "title": "[MXTV] Express Shiksha",
+    "url": "https://m-c06-j2apps.s.llnwi.net/hls/8017.ExpressShiksha.in.m3u8",
+    "url11": "potplayer://https://m-c06-j2apps.s.llnwi.net/hls/8017.ExpressShiksha.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8013.SanatanTV.in/en/1x1/208x208/test_pic1603097486172.jpg",
+    "title": "[MXTV] Sanatan TV",
+    "url": "https://m-c05-j2apps.s.llnwi.net/hls/8013.SanatanTV.in.m3u8",
+    "url11": "potplayer://https://m-c05-j2apps.s.llnwi.net/hls/8013.SanatanTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Telugu",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8018.ExpressTV.in/en/1x1/208x208/test_pic1603098016693.jpg",
+    "title": "[MXTV] Express TV",
+    "url": "https://m-c06-j2apps.s.llnwi.net/hls/8018.ExpressTV.in.m3u8",
+    "url11": "potplayer://https://m-c06-j2apps.s.llnwi.net/hls/8018.ExpressTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8012.Nepal1News.in/en/1x1/208x208/test_pic1603097383555.jpg",
+    "title": "[MXTV] Nepal 1 News",
+    "url": "https://m-c05-j2apps.s.llnwi.net/hls/8012.Nepal1News.in.m3u8",
+    "url11": "potplayer://https://m-c05-j2apps.s.llnwi.net/hls/8012.Nepal1News.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8011.APNNews.in/en/1x1/208x208/test_pic1603094458437.jpg",
+    "title": "[MXTV] APN News",
+    "url": "https://m-c05-j2apps.s.llnwi.net/hls/8011.APNNews.in.m3u8",
+    "url11": "potplayer://https://m-c05-j2apps.s.llnwi.net/hls/8011.APNNews.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8021.RajyogaTV.in/en/1x1/208x208/test_pic1603378262403.jpg",
+    "title": "[MXTV] Rajyoga TV",
+    "url": "https://m-c050-j2apps.s.llnwi.net/hls/8021.RajyogaTV.in.m3u8",
+    "url11": "potplayer://https://m-c050-j2apps.s.llnwi.net/hls/8021.RajyogaTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8019.PeaceMusic.in/en/1x1/208x208/test_pic1603378379395.jpg",
+    "title": "[MXTV] Peace Music",
+    "url": "https://m-c050-j2apps.s.llnwi.net/hls/8019.PeaceMusic.in.m3u8",
+    "url11": "potplayer://https://m-c050-j2apps.s.llnwi.net/hls/8019.PeaceMusic.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8022.VipNews.in/en/1x1/208x208/test_pic1603694574030.jpg",
+    "title": "[MXTV] VIP News",
+    "url": "https://m-c07-j2apps.s.llnwi.net/hls/8022.VipNews.in.m3u8",
+    "url11": "potplayer://https://m-c07-j2apps.s.llnwi.net/hls/8022.VipNews.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Urdu",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8023.AANNNews.in/en/1x1/208x208/test_pic1603694522565.jpg",
+    "title": "[MXTV] ANN NEWS",
+    "url": "https://m-c07-j2apps.s.llnwi.net/hls/8023.AANNNews.in.m3u8",
+    "url11": "potplayer://https://m-c07-j2apps.s.llnwi.net/hls/8023.AANNNews.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Bengali",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8025.ChannelVision.in/en/1x1/208x208/test_pic1603869214734.jpg",
+    "title": "[MXTV] Channel Vision",
+    "url": "https://m-c050-j2apps.s.llnwi.net/hls/8025.ChannelVision.in.m3u8",
+    "url11": "potplayer://https://m-c050-j2apps.s.llnwi.net/hls/8025.ChannelVision.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8026.LokmanchNews.in/en/1x1/208x208/test_pic1604136709994.jpg",
+    "title": "[MXTV] Lokmanch News",
+    "url": "https://m-c050-j2apps.s.llnwi.net/hls/8026.LokmanchNews.in.m3u8",
+    "url11": "potplayer://https://m-c050-j2apps.s.llnwi.net/hls/8026.LokmanchNews.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Bengali",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8027.RongeenTV.in/en/1x1/208x208/test_pic1605964151002.jpg",
+    "title": "[MXTV] Rongeen TV",
+    "url": "https://m-c09-j2apps.s.llnwi.net/hls/8027.RongeenTV.in.m3u8",
+    "url11": "potplayer://https://m-c09-j2apps.s.llnwi.net/hls/8027.RongeenTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8028.JantantraTV.in/en/1x1/208x208/test_pic1606022409738.jpg",
+    "title": "[MXTV] Jantantra TV",
+    "url": "https://m-c010-j2apps.s.llnwi.net/hls/8028.JantantraTV.in.m3u8",
+    "url11": "potplayer://https://m-c010-j2apps.s.llnwi.net/hls/8028.JantantraTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8030.AtmadarshanTV.in/en/1x1/208x208/test_pic1606634271129.jpg",
+    "title": "[MXTV] Atmadarshan TV",
+    "url": "https://m-c050-j2apps.s.llnwi.net/hls/8030.AtmadarshanTV.in.m3u8",
+    "url11": "potplayer://https://m-c050-j2apps.s.llnwi.net/hls/8030.AtmadarshanTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Bengali",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8029.ExpressNews.in/en/1x1/208x208/test_pic1606634182003.jpg",
+    "title": "[MXTV] Express News",
+    "url": "https://m-c050-j2apps.s.llnwi.net/hls/8029.ExpressNews.in.m3u8",
+    "url11": "potplayer://https://m-c050-j2apps.s.llnwi.net/hls/8029.ExpressNews.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8031.VedantTV.in/en/1x1/208x208/test_pic1607600134818.jpg",
+    "title": "[MXTV] Vedant TV",
+    "url": "https://m-c09-j2apps.s.llnwi.net/hls/8031.VedantTV.in.m3u8",
+    "url11": "potplayer://https://m-c09-j2apps.s.llnwi.net/hls/8031.VedantTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8064.InsightTV.in/en/1x1/208x208/test_pic1608631431434.jpg",
+    "title": "[MXTV] Insight TV",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-insighttvrow-mxplayer/playlist.m3u8",
+    "url11": "potplayer://https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-insighttvrow-mxplayer/playlist.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Telugu",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8034.V6News.in/en/1x1/208x208/test_pic1607960004481.jpg",
+    "title": "[MXTV] V6 News",
+    "url": "https://m-c08-j2apps.s.llnwi.net/hls/8034.V6News.in.m3u8",
+    "url11": "potplayer://https://m-c08-j2apps.s.llnwi.net/hls/8034.V6News.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8033.HaryanaTashanEnt.in/en/1x1/208x208/test_pic1615992378172.jpg",
+    "title": "[MXTV] Tashan Entertainment",
+    "url": "https://m-c04-j2apps.s.llnwi.net/hls/8033.HaryanaTashanEnt.in.m3u8",
+    "url11": "potplayer://https://m-c04-j2apps.s.llnwi.net/hls/8033.HaryanaTashanEnt.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8032.HaryanaTashanMusic.in/en/1x1/208x208/test_pic1615992348395.jpg",
+    "title": "[MXTV] Tashan Music",
+    "url": "https://m-c036-j2apps.s.llnwi.net/hls/8032.HaryanaTashanMusic.in.m3u8",
+    "url11": "potplayer://https://m-c036-j2apps.s.llnwi.net/hls/8032.HaryanaTashanMusic.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8036.PTNews.in/en/1x1/208x208/test_pic1609170530786.jpg",
+    "title": "[MXTV] PT News",
+    "url": "https://m-c29-j2apps.s.llnwi.net/hls/8036.PTNews.in.m3u8",
+    "url11": "potplayer://https://m-c29-j2apps.s.llnwi.net/hls/8036.PTNews.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8037.DPKNews.in/en/1x1/208x208/test_pic1609395209028.jpg",
+    "title": "[MXTV] DPK News",
+    "url": "https://m-c04-j2apps.s.llnwi.net/hls/8037.DPKNews.in.m3u8",
+    "url11": "potplayer://https://m-c04-j2apps.s.llnwi.net/hls/8037.DPKNews.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8040.PrimeTV.in/en/1x1/208x208/test_pic1611556390402.jpg",
+    "title": "[MXTV] Prime TV",
+    "url": "https://m-c04-j2apps.s.llnwi.net/hls/8040.PrimeTV.in.m3u8",
+    "url11": "potplayer://https://m-c04-j2apps.s.llnwi.net/hls/8040.PrimeTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Haryanvi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8041.HaryanaBeats.in/en/1x1/208x208/test_pic1611553733627.jpg",
+    "title": "[MXTV] Haryana Beats",
+    "url": "https://m-c04-j2apps.s.llnwi.net/hls/8041.HaryanaBeats.in.m3u8",
+    "url11": "potplayer://https://m-c04-j2apps.s.llnwi.net/hls/8041.HaryanaBeats.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Kannada",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8039.SSTV.in/en/1x1/208x208/test_pic1611551728510.jpg",
+    "title": "[MXTV] SSTV",
+    "url": "https://m-c04-j2apps.s.llnwi.net/hls/8039.SSTV.in.m3u8",
+    "url11": "potplayer://https://m-c04-j2apps.s.llnwi.net/hls/8039.SSTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8042.UpdateIndia.in/en/1x1/208x208/test_pic1612792182325.jpg",
+    "title": "[MXTV] Update India",
+    "url": "https://m-c09-j2apps.s.llnwi.net/hls/8042.UpdateIndia.in.m3u8",
+    "url11": "potplayer://https://m-c09-j2apps.s.llnwi.net/hls/8042.UpdateIndia.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8043.Divya.in/en/1x1/208x208/test_pic1615290925975.jpg",
+    "title": "[MXTV] Divya",
+    "url": "https://m-c07-j2apps.s.llnwi.net/hls/8043.Divya.in.m3u8",
+    "url11": "potplayer://https://m-c07-j2apps.s.llnwi.net/hls/8043.Divya.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8052.SharnamTV.in/en/1x1/208x208/test_pic1623648242435.jpg",
+    "title": "[MXTV] Sharnam TV",
+    "url": "https://m-c049-j2apps.s.llnwi.net/hls/8052.SharnamTV.in.m3u8",
+    "url11": "potplayer://https://m-c049-j2apps.s.llnwi.net/hls/8052.SharnamTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8069.FashionTVMumbai.in/en/1x1/208x208/test_pic1624442568062.jpg",
+    "title": "[MXTV] Fashion TV - Mumbai",
+    "url": "https://m-c037-j2apps.s.llnwi.net/hls/8069.FashionTVMumbai.in.m3u8",
+    "url11": "potplayer://https://m-c037-j2apps.s.llnwi.net/hls/8069.FashionTVMumbai.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8054.GreenChillies.in/en/1x1/208x208/test_pic1624949648654.jpg",
+    "title": "[MXTV] Green Chillies",
+    "url": "https://m-c09-j2apps.s.llnwi.net/hls/8054.GreenChillies.in.m3u8",
+    "url11": "potplayer://https://m-c09-j2apps.s.llnwi.net/hls/8054.GreenChillies.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Bengali",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8053.ShineTV.in/en/1x1/208x208/test_pic1625049221923.jpg",
+    "title": "[MXTV] Shine TV",
+    "url": "https://m-c035-j2apps.s.llnwi.net/hls/8053.ShineTV.in.m3u8",
+    "url11": "potplayer://https://m-c035-j2apps.s.llnwi.net/hls/8053.ShineTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8056.News24MPCG.in/en/1x1/208x208/test_pic1624950278606.jpg",
+    "title": "[MXTV] News24 MP CG",
+    "url": "https://m-c09-j2apps.s.llnwi.net/hls/8056.News24MPCG.in.m3u8",
+    "url11": "potplayer://https://m-c09-j2apps.s.llnwi.net/hls/8056.News24MPCG.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Oriya",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8061.DDOriya.in/en/1x1/208x208/test_pic1626174154669.jpg",
+    "title": "[MXTV] DD Oriya",
+    "url": "https://m-c25-j2apps.s.llnwi.net/hls/8061.DDOriya.in.m3u8",
+    "url11": "potplayer://https://m-c25-j2apps.s.llnwi.net/hls/8061.DDOriya.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Urdu",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8058.DDUrdu.in/en/1x1/208x208/test_pic1626174185015.jpg",
+    "title": "[MXTV] DD Urdu",
+    "url": "https://m-c037-j2apps.s.llnwi.net/hls/8058.DDUrdu.in.m3u8",
+    "url11": "potplayer://https://m-c037-j2apps.s.llnwi.net/hls/8058.DDUrdu.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8059.DArunprabha.in/en/1x1/208x208/test_pic1626174225500.jpg",
+    "title": "[MXTV] DD Arun Prabha",
+    "url": "https://m-c037-j2apps.s.llnwi.net/hls/8059.DArunprabha.in.m3u8",
+    "url11": "potplayer://https://m-c037-j2apps.s.llnwi.net/hls/8059.DArunprabha.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8059.NDTVGoodTimes.in/en/1x1/208x208/test_pic1626765931847.jpg",
+    "title": "[MXTV] GOODTiMES",
+    "url": "https://m-c049-j2apps.s.llnwi.net/hls/8059.NDTVGoodTimes.in.m3u8",
+    "url11": "potplayer://https://m-c049-j2apps.s.llnwi.net/hls/8059.NDTVGoodTimes.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Rajasthani",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8062.DDRajasthan.in/en/1x1/208x208/test_pic1626448254190.jpg",
+    "title": "[MXTV] DD Rajasthan",
+    "url": "https://m-c29-j2apps.s.llnwi.net/hls/8062.DDRajasthan.in.m3u8",
+    "url11": "potplayer://https://m-c29-j2apps.s.llnwi.net/hls/8062.DDRajasthan.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Punjabi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8064.ITV24.in/en/1x1/208x208/test_pic1626945096400.jpg",
+    "title": "[MXTV] ITV24",
+    "url": "https://itv24.livebox.co.in/Itv24hls/live.m3u8",
+    "url11": "potplayer://https://itv24.livebox.co.in/Itv24hls/live.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8065.DevamTV.in/en/1x1/208x208/test_pic1628488171410.jpg",
+    "title": "[MXTV] Devam TV",
+    "url": "https://m-c010-j2apps.s.llnwi.net/hls/8065.DevamTV.in.m3u8",
+    "url11": "potplayer://https://m-c010-j2apps.s.llnwi.net/hls/8065.DevamTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Bengali",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8066.RoseTV.in/en/1x1/208x208/test_pic1629705382764.jpg",
+    "title": "[MXTV] Rose TV",
+    "url": "https://m-c048-j2apps.s.llnwi.net/hls/8066.RoseTV.in.m3u8",
+    "url11": "potplayer://https://m-c048-j2apps.s.llnwi.net/hls/8066.RoseTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8082.RealLife.in/en/1x1/208x208/test_pic1631700033815.jpg",
+    "title": "[MXTV] Real Life",
+    "url": "https://m-c050-j2apps.s.llnwi.net/hls/8082.RealLife.in.m3u8",
+    "url11": "potplayer://https://m-c050-j2apps.s.llnwi.net/hls/8082.RealLife.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8083.Timeline.in/en/1x1/208x208/test_pic1631700168022.jpg",
+    "title": "[MXTV] Timeline",
+    "url": "https://m-c050-j2apps.s.llnwi.net/hls/8083.Timeline.in.m3u8",
+    "url11": "potplayer://https://m-c050-j2apps.s.llnwi.net/hls/8083.Timeline.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8081.RealStories.in/en/1x1/208x208/test_pic1631699925116.jpg",
+    "title": "[MXTV] Real Stories",
+    "url": "https://m-c050-j2apps.s.llnwi.net/hls/8081.RealStories.in.m3u8",
+    "url11": "potplayer://https://m-c050-j2apps.s.llnwi.net/hls/8081.RealStories.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX English",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8084.Wonder.in/en/1x1/208x208/test_pic1631700257308.jpg",
+    "title": "[MXTV] Wonder",
+    "url": "https://m-c050-j2apps.s.llnwi.net/hls/8084.Wonder.in.m3u8",
+    "url11": "potplayer://https://m-c050-j2apps.s.llnwi.net/hls/8084.Wonder.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8068.ABZYCool.in/en/1x1/208x208/test_pic1633931850661.jpg",
+    "title": "[MXTV] ABZY Cool",
+    "url": "https://m-c010-j2apps.s.llnwi.net/hls/8068.ABZYCool.in.m3u8",
+    "url11": "potplayer://https://m-c010-j2apps.s.llnwi.net/hls/8068.ABZYCool.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8069.ABZYMovies.in/en/1x1/208x208/test_pic1633931926974.jpg",
+    "title": "[MXTV] ABZY Movies",
+    "url": "https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in.m3u8",
+    "url11": "potplayer://https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8070.ABZYDhakad.in/en/1x1/208x208/test_pic1633932000644.jpg",
+    "title": "[MXTV] ABZY Dhakad",
+    "url": "https://m-c010-j2apps.s.llnwi.net/hls/8070.ABZYDhakad.in.m3u8",
+    "url11": "potplayer://https://m-c010-j2apps.s.llnwi.net/hls/8070.ABZYDhakad.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Hindi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8067.UpdateIndia.in/en/1x1/208x208/test_pic1634037748341.jpg",
+    "title": "[MXTV] Update India Rajasthan Madhya Pradesh",
+    "url": "https://m-c050-j2apps.s.llnwi.net/hls/8067.UpdateIndia.in.m3u8",
+    "url11": "potplayer://https://m-c050-j2apps.s.llnwi.net/hls/8067.UpdateIndia.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Bhojpuri",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8071.RishuMovies.in/en/1x1/208x208/test_pic1634555422609.jpg",
+    "title": "[MXTV] Rishu Movies",
+    "url": "https://m-c010-j2apps.s.llnwi.net/hls/8071.RishuMovies.in.m3u8",
+    "url11": "potplayer://https://m-c010-j2apps.s.llnwi.net/hls/8071.RishuMovies.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Punjabi",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8073.PunjabiPlusTV.in/en/1x1/208x208/test_pic1634707744541.jpg",
+    "title": "[MXTV] Punjabi Plus TV",
+    "url": "https://m-c050-j2apps.s.llnwi.net/hls/8073.PunjabiPlusTV.in.m3u8",
+    "url11": "potplayer://https://m-c050-j2apps.s.llnwi.net/hls/8073.PunjabiPlusTV.in.m3u8"
+  },
+  {
+    "group-title": "Sneh MX Malayalam",
+    "tvgLogo": "https://j2apps.s.llnwi.net/pic/8072.NextTv.in/en/1x1/208x208/test_pic1634796611072.jpg",
+    "title": "[MXTV] Next Tv",
+    "url": "https://m-c050-j2apps.s.llnwi.net/hls/8072.NextTv.in.m3u8",
+    "url11": "potplayer://https://m-c050-j2apps.s.llnwi.net/hls/8072.NextTv.in.m3u8"
+  }
+]
